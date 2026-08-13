@@ -1,0 +1,1383 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tesseract",
+          "description": "The definitive Open Source OCR engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:00:43Z",
+            "owner": "tesseract-ocr",
+            "repo": "tesseract",
+            "stars": 75908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyOCR",
+          "description": "OCR engine built on PyTorch by JaidedAI,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T12:23:12Z",
+            "owner": "JaidedAI",
+            "repo": "EasyOCR",
+            "stars": 29905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doctr",
+          "description": "A seamless & high-performing OCR library powered by Deep Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T10:46:58Z",
+            "owner": "mindee",
+            "repo": "doctr",
+            "stars": 6213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftOCR",
+          "description": "fast and simple OCR library written in Swift",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-12-13T08:49:55Z",
+            "owner": "NMAC427",
+            "repo": "SwiftOCR",
+            "stars": 4633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocropus",
+          "description": "OCR engine based on LSTM,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-22T21:57:32Z",
+            "owner": "ocropus-archive",
+            "repo": "DUP-ocropy",
+            "stars": 3465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calamari",
+          "description": "OCR Engine based on OCRopy and Kraken",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T22:11:57Z",
+            "owner": "Calamari-OCR",
+            "repo": "calamari",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attention-ocr",
+          "description": "OCR engine using visual attention mechanisms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-20T17:48:54Z",
+            "owner": "emedvedev",
+            "repo": "attention-ocr",
+            "stars": 1086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kraken",
+          "description": "Ocropus fork with sane defaults",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:03:28Z",
+            "owner": "mittagessen",
+            "repo": "kraken",
+            "stars": 1055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-ocr-opencv",
+          "description": "and its fork - A simple pythonic OCR engine using opencv and numpy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-01T19:53:51Z",
+            "owner": "gitanat",
+            "repo": "simple-ocr-opencv",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocular",
+          "description": "Machine-learning OCR for historic documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-07T03:36:43Z",
+            "owner": "tberg12",
+            "repo": "ocular",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocropus 0.4",
+          "description": "Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2011-09-30T15:25:11Z",
+            "owner": "jkrall",
+            "repo": "ocropus",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "OCR engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hocr-tools",
+          "description": "Tools for doing various useful things with hOCR files,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T17:57:15Z",
+            "owner": "ocropus",
+            "repo": "hocr-tools",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocr-transform",
+          "description": "CLI tool to convert between hOCR and ALTO,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-21T13:38:57Z",
+            "owner": "UB-Mannheim",
+            "repo": "ocr-fileformat",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hocr-spec",
+          "description": "hOCR 1.2 specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-12T09:42:24Z",
+            "owner": "kba",
+            "repo": "hocr-spec",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hocr-parser",
+          "description": "hOCR Specification Python Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-09-23T09:01:30Z",
+            "owner": "athento",
+            "repo": "hocr-parser",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hOCRTools",
+          "description": "hOCR to ALTO conversion XSLT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2018-07-31T06:21:33Z",
+            "owner": "ONB-RD",
+            "repo": "hOCRTools",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "hOCR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ALTO XML Schema",
+          "description": "XML Schema and development of the ALTO XML format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-08T11:41:03Z",
+            "owner": "altoxml",
+            "repo": "schema",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alto-tools",
+          "description": "Various tools to work with ALTO files, Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T22:26:09Z",
+            "owner": "cneud",
+            "repo": "alto-tools",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALTO XML Documentation",
+          "description": "Documentation and use cases for ALTO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-09-10T23:56:25Z",
+            "owner": "altoxml",
+            "repo": "documentation",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AbbyyToAlto",
+          "description": "PHP script converting from Abbyy 6 to ALTO XML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2011-05-09T11:12:07Z",
+            "owner": "ironymark",
+            "repo": "AbbyyToAlto",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "ALTO XML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PAGE-XML Schema",
+          "description": "XML schema of the PAGE XML format along with documentation and examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2026-01-16T21:26:32Z",
+            "owner": "PRImA-Research-Lab",
+            "repo": "PAGE-XML",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py-pagexml",
+          "description": "Python library for handling PAGE XML and OPF files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-25T13:41:28Z",
+            "owner": "omni-us",
+            "repo": "pagexml",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "PAGE XML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OCRmyPDF",
+          "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T22:47:30Z",
+            "owner": "ocrmypdf",
+            "repo": "OCRmyPDF",
+            "stars": 34431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pdf2PdfOCR",
+          "description": "A tool to OCR a PDF (or supported images) and add a text \"layer\" (a \"pdf sandwich\") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-24T14:41:20Z",
+            "owner": "LeoFCardoso",
+            "repo": "pdf2pdfocr",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesseract-recognize",
+          "description": "Tesseract-based tool that outputs result in Page XML format (docker image).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-31T05:24:50Z",
+            "owner": "mauvilsa",
+            "repo": "tesseract-recognize",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocrocis",
+          "description": "Project manager interface for Ocropy, see also external project homepage",
+          "children": []
+        }
+      ],
+      "title": "OCR CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VietOCR",
+          "description": "A Java/.NET GUI frontend for Tesseract OCR engine, including jTessBoxEditor a graphical Tesseract box data editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:00:43Z",
+            "owner": "tesseract-ocr",
+            "repo": "tesseract",
+            "stars": 75908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paperless",
+          "description": "Scan, index, and archive all of your paper documents.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-04-06T20:00:58Z",
+            "owner": "the-paperless-project",
+            "repo": "paperless",
+            "stars": 7915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paperwork",
+          "description": "Using scanners and OCR to grep paper documents the easy way.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-26T10:12:12Z",
+            "owner": "openpaperwork",
+            "repo": "paperwork",
+            "stars": 2432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gImageReader",
+          "description": "gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-15T10:07:56Z",
+            "owner": "manisandro",
+            "repo": "gImageReader",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAREX",
+          "description": "A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T14:03:33Z",
+            "owner": "OCR4all",
+            "repo": "LAREX",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qt-box-editor",
+          "description": "QT4 editor of tesseract-ocr box files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-14T18:38:09Z",
+            "owner": "zdenop",
+            "repo": "qt-box-editor",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocr-gt-tools",
+          "description": "Client-Server application for editing OCR ground truth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T14:58:19Z",
+            "owner": "UB-Mannheim",
+            "repo": "ocr-gt-tools",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoCoTo",
+          "description": "Fast interactive batch corrections of complete OCR error series in OCR'ed historical documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-07T13:48:11Z",
+            "owner": "cisocrgroup",
+            "repo": "PoCoTo",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRImA PAGE Viewer",
+          "description": "Java based viewer for PAGE XML files (layout + text content). Also supports ALTO XML, FineReader XML, and HOCR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-25T18:58:58Z",
+            "owner": "PRImA-Research-Lab",
+            "repo": "prima-page-viewer",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nw-page-editor",
+          "description": "Simple app for visual editing of Page XML files. Provides desktop and server docker-based versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T06:20:43Z",
+            "owner": "mauvilsa",
+            "repo": "nw-page-editor",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "archiscribe",
+          "description": "Web application for transcribing OCR ground truth from Archive.org. Deployed instance available at https://archiscribe.jbaiter.de/, results are available in @jbaiter/archiscribe-corpus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-02-22T22:17:30Z",
+            "owner": "jbaiter",
+            "repo": "archiscribe",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moz-hocr-editor",
+          "description": "Firefox Addon for editing hOCR files Discontinued",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2015-04-08T22:00:33Z",
+            "owner": "garrison",
+            "repo": "moz-hocr-edit",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "OCR GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "binarize.c in ZBar",
+          "description": "C implementations of two binarization algorithms, based on Sauvola",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-18T01:09:42Z",
+            "owner": "ZBar",
+            "repo": "ZBar",
+            "stars": 2545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "in oldnyc",
+          "description": "Cropping a page to just the text block",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T16:55:17Z",
+            "owner": "danvk",
+            "repo": "oldnyc",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoiseRemove.java in MathOCR",
+          "description": "Java implementation of Adaptive degraded document image binarization by B. Gatos , I. Pratikakis, S.J. Perantonis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-19T02:06:26Z",
+            "owner": "chungkwong",
+            "repo": "MathOCR",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binarizewolfjolion",
+          "description": "Comparison of binarization algorithms. Blog post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-08-09T12:31:07Z",
+            "owner": "0x333333",
+            "repo": "binarizewolfjolion",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typeface-corpus",
+          "description": "A repository for typefaces to train Tesseract and OCRopus for natural history collections and digital humanities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-12-13T18:35:37Z",
+            "owner": "jbest",
+            "repo": "typeface-corpus",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "OCR Preprocessing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open OCR",
+          "description": "Run Tesseract in Docker containers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-15T05:11:05Z",
+            "owner": "tleyden",
+            "repo": "open-ocr",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCR4all",
+          "description": "Provides OCR services through web applications. Included Projects: LAREX, OCRopus, calamari and nashi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-05T11:34:20Z",
+            "owner": "OCR4all",
+            "repo": "OCR4all",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesseract-web-service",
+          "description": "An implementation of RESTful web service for tesseract-OCR using tornado.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-20T20:31:42Z",
+            "owner": "guitarmind",
+            "repo": "tesseract-web-service",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nidaba",
+          "description": "An expandable and scalable OCR pipeline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-14T16:23:46Z",
+            "owner": "OpenPhilology",
+            "repo": "nidaba",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamera",
+          "description": "A meta-framework for building document processing applications, e.g. OCR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-15T08:30:12Z",
+            "owner": "hsnr-gamera",
+            "repo": "gamera-3",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-ocropy",
+          "description": "A Docker container for running the ocropy OCR system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-12-16T17:12:54Z",
+            "owner": "kba",
+            "repo": "docker-ocropy",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocr-tools",
+          "description": "Project to provide CLI and web service interfaces to common OCR engines",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-06-23T20:42:10Z",
+            "owner": "subugoe",
+            "repo": "ocr-tools",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kraken-docker",
+          "description": "Run the kraken OCR engine in a docker container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2017-12-16T22:21:44Z",
+            "owner": "kba",
+            "repo": "kraken-docker",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocrad-docker",
+          "description": "Run the ocrad OCR engine in a docker container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-08-15T06:54:00Z",
+            "owner": "kba",
+            "repo": "ocrad-docker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABBYY Cloud OCR SDK Code samples",
+          "description": "Code samples for using the proprietary commercial ABBYY OCR API.",
+          "children": []
+        }
+      ],
+      "title": "OCR as a Service"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ocrevalUAtion",
+          "description": "Cross-format evaluation, CLI and GUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-09-01T22:50:27Z",
+            "owner": "impactcentre",
+            "repo": "ocrevalUAtion",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISRI OCR Evaluation Tools",
+          "description": "with a User Guide from 1996 :!:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "isri-ocr-evaluation-tools",
+              "description": "further development by @eddieantonio (2015, 2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2021-04-16T20:57:14Z",
+                "owner": "eddieantonio",
+                "repo": "ocreval",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ancientgreekocr-evaluation-tools",
+              "description": "further development by @nickjwhite (2013, 2014)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2018-02-21T16:33:32Z",
+                "owner": "ryanfb",
+                "repo": "ancientgreekocr-ocr-evaluation-tools",
+                "stars": 23
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-04-16T20:57:14Z",
+            "owner": "eddieantonio",
+            "repo": "ocreval",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quack",
+          "description": "Quality-Assurance-tool for scans with corresponding ALTO-files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-12-02T11:51:38Z",
+            "owner": "tokee",
+            "repo": "quack",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngram-ocr-eval",
+          "description": "Brute and simple OCR evaluation using ngrams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2014-04-17T08:22:44Z",
+            "owner": "impactcentre",
+            "repo": "hackathon2014",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "OCR evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OCR libraries by programming language"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tess-two",
+          "description": "Tools for compiling Tesseract on Android and Java API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-03-17T11:24:00Z",
+            "owner": "rmtheis",
+            "repo": "tess-two",
+            "stars": 3764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tess4J",
+          "description": "Java Native Access bindings to Tesseract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T19:31:22Z",
+            "owner": "nguyenq",
+            "repo": "tess4j",
+            "stars": 1756
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytesseract",
+          "description": "A Python wrapper for Google Tesseract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T19:52:40Z",
+            "owner": "madmaze",
+            "repo": "pytesseract",
+            "stars": 6381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesserocr",
+          "description": "A Python wrapper for the tesseract-ocr API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T12:28:33Z",
+            "owner": "sirfz",
+            "repo": "tesserocr",
+            "stars": 2170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyocr",
+          "description": "A Python wrapper for Tesseract and Cuneiform.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-06-13T13:01:15Z",
+            "owner": "openpaperwork",
+            "repo": "pyocr",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocrodjvu",
+          "description": "A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-03T14:45:53Z",
+            "owner": "jwilk-archive",
+            "repo": "ocrodjvu",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tesseract.js",
+          "description": "Javascript port (emscripten) of Tesseract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T04:19:12Z",
+            "owner": "naptha",
+            "repo": "tesseract.js",
+            "stars": 38624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocrad.js",
+          "description": "Javascript port (emscripten) of ocrad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-02T20:34:54Z",
+            "owner": "antimatter15",
+            "repo": "ocrad.js",
+            "stars": 3519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-tesseract-ocr",
+          "description": "A simple wrapper for the Tesseract OCR package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T18:17:01Z",
+            "owner": "zapolnoch",
+            "repo": "node-tesseract-ocr",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gocr.js",
+          "description": "Javascript port (emscripten) of gocr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-12-31T04:23:46Z",
+            "owner": "antimatter15",
+            "repo": "gocr.js",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-tesseract-native",
+          "description": "C++ module for node providing OCR with tesseract and leptonica.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-11-17T21:36:10Z",
+            "owner": "mdelete",
+            "repo": "node-tesseract-native",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocracy",
+          "description": "pure javascript lstm rnn implementation based on ocropus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-02-06T04:35:21Z",
+            "owner": "naptha",
+            "repo": "ocracy",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rtesseract",
+          "description": "Ruby library wrapping the tesseract and imagemagick executables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-04-30T22:24:16Z",
+            "owner": "dannnylo",
+            "repo": "rtesseract",
+            "stars": 883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-tesseract",
+          "description": "Native Tesseract bindings for Ruby MRI and JRuby",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-07-02T12:07:20Z",
+            "owner": "meh",
+            "repo": "ruby-tesseract-ocr",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocr_space",
+          "description": "API wrapper for free ocr service ocr.space. Includes CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-02-06T21:45:51Z",
+            "owner": "suyesh",
+            "repo": "ocr_space",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftOCR",
+          "description": "Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-12-13T08:49:55Z",
+            "owner": "NMAC427",
+            "repo": "SwiftOCR",
+            "stars": 4633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tesseract OCR iOS",
+          "description": "Swift and Objective-C wrapper for Tesseract OCR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-03T20:04:54Z",
+            "owner": "gali8",
+            "repo": "Tesseract-OCR-iOS",
+            "stars": 4222
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ocrodeg",
+          "description": "Document image degradation for OCR data augmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-18T18:30:04Z",
+            "owner": "NVlabs",
+            "repo": "ocrodeg",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glyph-miner",
+          "description": "A system for extracting glyphs from early typeset prints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-09-29T07:53:09Z",
+            "owner": "benedikt-budig",
+            "repo": "glyph-miner",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "OCR training tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CIS OCR Test Set",
+          "description": "2 example documents each in German/Latin/Greek with ground truth for PoCoTo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lex",
+            "last_commit": "2021-07-02T19:00:40Z",
+            "owner": "cisocrgroup",
+            "repo": "Resources",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "archiscribe-corpus",
+          "description": ">4,200 lines transcribed from 19th Century German prints via archiscribe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-12-31T16:12:27Z",
+            "owner": "jbaiter",
+            "repo": "archiscribe-corpus",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Ground Truth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Literature"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ocropus Wiki: Compute errors and confusions",
+          "description": "(2016) @zuphilip",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-22T21:57:32Z",
+            "owner": "ocropus-archive",
+            "repo": "DUP-ocropy",
+            "stars": 3465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocropus Wiki: Working with Ground Truth",
+          "description": "(2016) @zuphilip",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-22T21:57:32Z",
+            "owner": "ocropus-archive",
+            "repo": "DUP-ocropy",
+            "stars": 3465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tesseract Blends Old and New OCR Technology",
+          "description": "(2016) @theraysmith",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-12T19:10:36Z",
+            "owner": "tesseract-ocr",
+            "repo": "docs",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "\"Needlessly complex\" blog",
+          "description": "(2016) @mzucker. Several image processing how-tos (Python based), particularly:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Compressing and enhancing hand-written notes",
+              "description": "(code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-20T22:27:57Z",
+                "owner": "mzucker",
+                "repo": "noteshrink",
+                "stars": 4841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Page dewarping",
+              "description": "(code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-02T13:41:08Z",
+                "owner": "mzucker",
+                "repo": "page_dewarp",
+                "stars": 1526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unprojecting text with ellipses",
+              "description": "(code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-05-19T06:39:01Z",
+                "owner": "mzucker",
+                "repo": "unproject_text",
+                "stars": 150
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Blog Posts and Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MathOCR",
+          "description": "A printed scientific document recognition system, pre-alpha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-19T02:06:26Z",
+            "owner": "chungkwong",
+            "repo": "MathOCR",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abbyy-finereader-ocr-senate",
+          "description": "Using OCR to parse scanned Senate Financial Disclosure forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-03-22T17:52:48Z",
+            "owner": "dannguyen",
+            "repo": "abbyy-finereader-ocr-senate",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvOCR",
+          "description": "An OCR system for recognizing resume or cv text, implemented in Python and C and based on tesseract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-10-28T10:47:02Z",
+            "owner": "Halfish",
+            "repo": "cvOCR",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "OCR Showcases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Academic articles"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:27:49.610Z",
+    "original_repository": "kba/awesome-ocr",
+    "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
+    "enhanced_repository": "enhansome/enhansome-ocr",
+    "enhanced_repository_description": null,
+    "title": "Awesome OCR with stars"
+  }
+}
