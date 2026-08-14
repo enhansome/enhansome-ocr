@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:00:43Z",
+            "last_commit": "2026-08-14T18:14:53Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75908
+            "stars": 75917
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29905
+            "stars": 29907
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-07-28T10:46:58Z",
             "owner": "mindee",
             "repo": "doctr",
-            "stars": 6213
+            "stars": 6257
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2020-12-13T08:49:55Z",
             "owner": "NMAC427",
             "repo": "SwiftOCR",
-            "stars": 4633
+            "stars": 4632
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-06T22:47:30Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34431
+            "stars": 34444
           }
         },
         {
@@ -402,10 +402,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:00:43Z",
+            "last_commit": "2026-08-14T18:14:53Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75908
+            "stars": 75917
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-04T12:28:33Z",
             "owner": "sirfz",
             "repo": "tesserocr",
-            "stars": 2170
+            "stars": 2171
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-05-17T04:19:12Z",
             "owner": "naptha",
             "repo": "tesseract.js",
-            "stars": 38624
+            "stars": 38623
           }
         },
         {
@@ -1123,7 +1123,7 @@
             "last_commit": "2020-12-13T08:49:55Z",
             "owner": "NMAC427",
             "repo": "SwiftOCR",
-            "stars": 4633
+            "stars": 4632
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2021-05-03T20:04:54Z",
             "owner": "gali8",
             "repo": "Tesseract-OCR-iOS",
-            "stars": 4222
+            "stars": 4221
           }
         }
       ],
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:27:49.610Z",
+    "last_updated": "2026-08-14T18:25:12.174Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
     "enhanced_repository": "enhansome/enhansome-ocr",
