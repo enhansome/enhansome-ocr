@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T05:46:18Z",
+            "last_commit": "2026-08-17T06:09:36Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75946
+            "stars": 75961
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29911
+            "stars": 29916
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:24:00Z",
+            "last_commit": "2026-08-17T07:36:02Z",
             "owner": "mindee",
             "repo": "doctr",
-            "stars": 6294
+            "stars": 6296
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-06T22:47:30Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34460
+            "stars": 34472
           }
         },
         {
@@ -402,10 +402,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T05:46:18Z",
+            "last_commit": "2026-08-17T06:09:36Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75946
+            "stars": 75961
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-08-11T06:20:43Z",
             "owner": "mauvilsa",
             "repo": "nw-page-editor",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2018-06-13T13:01:15Z",
             "owner": "openpaperwork",
             "repo": "pyocr",
-            "stars": 929
+            "stars": 928
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-05-17T04:19:12Z",
             "owner": "naptha",
             "repo": "tesseract.js",
-            "stars": 38630
+            "stars": 38634
           }
         },
         {
@@ -999,7 +999,7 @@
             "last_commit": "2020-09-02T20:34:54Z",
             "owner": "antimatter15",
             "repo": "ocrad.js",
-            "stars": 3519
+            "stars": 3518
           }
         },
         {
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:45:48.460Z",
+    "last_updated": "2026-08-17T17:56:54.104Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
     "enhanced_repository": "enhansome/enhansome-ocr",
