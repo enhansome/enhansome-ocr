@@ -19,7 +19,7 @@
             "last_commit": "2026-08-17T06:09:36Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75961
+            "stars": 75980
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29916
+            "stars": 29918
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:36:02Z",
+            "last_commit": "2026-08-18T10:36:00Z",
             "owner": "mindee",
             "repo": "doctr",
-            "stars": 6296
+            "stars": 6297
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-06-23T22:11:57Z",
             "owner": "Calamari-OCR",
             "repo": "calamari",
-            "stars": 1198
+            "stars": 1199
           }
         },
         {
@@ -348,10 +348,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T22:47:30Z",
+            "last_commit": "2026-08-18T07:07:50Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34472
+            "stars": 34483
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-17T06:09:36Z",
             "owner": "tesseract-ocr",
             "repo": "tesseract",
-            "stars": 75961
+            "stars": 75980
           }
         },
         {
@@ -458,7 +458,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T18:34:56Z",
+            "last_commit": "2026-08-18T12:35:45Z",
             "owner": "OCR4all",
             "repo": "LAREX",
             "stars": 198
@@ -903,7 +903,7 @@
             "last_commit": "2026-07-28T19:31:22Z",
             "owner": "nguyenq",
             "repo": "tess4j",
-            "stars": 1756
+            "stars": 1757
           }
         }
       ],
@@ -951,7 +951,7 @@
             "last_commit": "2018-06-13T13:01:15Z",
             "owner": "openpaperwork",
             "repo": "pyocr",
-            "stars": 928
+            "stars": 927
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-05-17T04:19:12Z",
             "owner": "naptha",
             "repo": "tesseract.js",
-            "stars": 38634
+            "stars": 38638
           }
         },
         {
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:56:54.104Z",
+    "last_updated": "2026-08-18T17:54:58.461Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
     "enhanced_repository": "enhansome/enhansome-ocr",
