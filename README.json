@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 22887094,
                 "language": "C++",
-                "last_commit": "2026-08-17T06:09:36Z",
+                "last_commit": "2026-08-21T11:52:24Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76043
+                "stars": 76088
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29923
+                "stars": 29930
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 327949189,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:04:13Z",
+                "last_commit": "2026-08-21T14:16:15Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6299
+                "stars": 6300
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-06-23T22:11:57Z",
                 "owner": "Calamari-OCR",
                 "repo": "calamari",
-                "stars": 1199
+                "stars": 1197
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-15T19:25:57Z",
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1056
+                "stars": 1057
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2026-08-18T23:58:51Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34520
+                "stars": 34522
               }
             },
             {
@@ -431,10 +431,10 @@
                 "archived": false,
                 "id": 22887094,
                 "language": "C++",
-                "last_commit": "2026-08-17T06:09:36Z",
+                "last_commit": "2026-08-21T11:52:24Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76043
+                "stars": 76088
               }
             },
             {
@@ -449,7 +449,7 @@
                 "last_commit": "2021-04-06T20:00:58Z",
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7914
+                "stars": 7913
               }
             },
             {
@@ -1049,7 +1049,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38641
+                    "stars": 38651
                   }
                 },
                 {
@@ -1805,7 +1805,7 @@
                 "last_commit": "2016-10-28T10:47:02Z",
                 "owner": "Halfish",
                 "repo": "cvOCR",
-                "stars": 19
+                "stars": 20
               }
             }
           ],
@@ -1818,7 +1818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:56:32.453Z",
+    "last_updated": "2026-08-21T17:57:02.308Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_id": 57230505,
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
