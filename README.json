@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 22887094,
                 "language": "C++",
-                "last_commit": "2026-08-21T11:52:24Z",
+                "last_commit": "2026-08-22T05:58:08Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76088
+                "stars": 76116
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T14:16:15Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6300
+                "stars": 6302
               }
             },
             {
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 35872353,
                 "language": "Python",
-                "last_commit": "2026-08-15T19:25:57Z",
+                "last_commit": "2026-08-21T20:58:28Z",
                 "owner": "mittagessen",
                 "repo": "kraken",
                 "stars": 1057
@@ -379,10 +379,10 @@
                 "archived": false,
                 "id": 15333471,
                 "language": "Python",
-                "last_commit": "2026-08-18T23:58:51Z",
+                "last_commit": "2026-08-22T03:30:49Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34522
+                "stars": 34524
               }
             },
             {
@@ -431,10 +431,10 @@
                 "archived": false,
                 "id": 22887094,
                 "language": "C++",
-                "last_commit": "2026-08-21T11:52:24Z",
+                "last_commit": "2026-08-22T05:58:08Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76088
+                "stars": 76116
               }
             },
             {
@@ -982,7 +982,7 @@
                     "last_commit": "2026-07-13T19:52:40Z",
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6381
+                    "stars": 6382
                   }
                 },
                 {
@@ -1012,7 +1012,7 @@
                     "last_commit": "2018-06-13T13:01:15Z",
                     "owner": "openpaperwork",
                     "repo": "pyocr",
-                    "stars": 927
+                    "stars": 926
                   }
                 },
                 {
@@ -1049,7 +1049,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38651
+                    "stars": 38654
                   }
                 },
                 {
@@ -1818,7 +1818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:57:02.308Z",
+    "last_updated": "2026-08-22T17:46:50.357Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_id": 57230505,
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
