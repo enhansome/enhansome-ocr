@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T05:58:08Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76146
+                "stars": 76158
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29933
+                "stars": 29935
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-22T03:30:49Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34559
+                "stars": 34562
               }
             },
             {
@@ -493,7 +493,7 @@
                 "last_commit": "2026-08-22T05:58:08Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76146
+                "stars": 76158
               }
             },
             {
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 77929618,
                 "language": "Java",
-                "last_commit": "2026-08-20T12:00:53Z",
+                "last_commit": "2026-08-24T15:29:22Z",
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 199
@@ -1240,7 +1240,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38662
+                    "stars": 38667
                   }
                 },
                 {
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:33.640Z",
+    "last_updated": "2026-08-24T17:57:58.177Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_id": 57230505,
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
