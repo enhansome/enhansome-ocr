@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T05:58:08Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76134
+                "stars": 76146
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29931
+                "stars": 29933
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T14:16:15Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6306
+                "stars": 6309
               }
             },
             {
@@ -177,6 +177,43 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "hebOCR",
+              "description": "Hebrew character recognition library (previously named hocr, see Wikipedia article)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43222204,
+                "language": "C",
+                "last_commit": "2016-02-08T20:12:05Z",
+                "owner": "yaacov",
+                "repo": "hebocr",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Older and possibly abandoned OCR engines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ocr-conversion-scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41048716,
+                "language": null,
+                "last_commit": "2026-02-13T10:27:38Z",
+                "owner": "cneud",
+                "repo": "ocr-conversion",
+                "stars": 84
+              }
+            },
             {
               "children": [
                 {
@@ -330,6 +367,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "TEI-OCR",
+                  "description": "TEI customization for OCR generated layout and content information",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51874519,
+                    "language": null,
+                    "last_commit": "2016-03-22T14:48:57Z",
+                    "owner": "OpenPhilology",
+                    "repo": "tei-ocr",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TEI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "PAGE-XML Schema",
                   "description": "XML schema of the PAGE XML format along with documentation and examples",
                   "children": [],
@@ -382,7 +441,7 @@
                 "last_commit": "2026-08-22T03:30:49Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34549
+                "stars": 34559
               }
             },
             {
@@ -434,7 +493,7 @@
                 "last_commit": "2026-08-22T05:58:08Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76134
+                "stars": 76146
               }
             },
             {
@@ -449,7 +508,7 @@
                 "last_commit": "2021-04-06T20:00:58Z",
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7913
+                "stars": 7912
               }
             },
             {
@@ -479,7 +538,7 @@
                 "last_commit": "2026-01-15T10:07:56Z",
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 1983
+                "stars": 1984
               }
             },
             {
@@ -494,7 +553,7 @@
                 "last_commit": "2026-08-20T12:00:53Z",
                 "owner": "OCR4all",
                 "repo": "LAREX",
-                "stars": 198
+                "stars": 199
               }
             },
             {
@@ -935,6 +994,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "tesseract-ocr",
+                  "description": "A Crystal wrapper for tesseract-ocr.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 201856440,
+                    "language": "Crystal",
+                    "last_commit": "2022-06-06T18:12:40Z",
+                    "owner": "dannnylo",
+                    "repo": "tesseract-ocr-crystal",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Crystal"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tesseract_ocr",
+                  "description": "Elixir library wrapping the tesseract executable.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132394406,
+                    "language": "Elixir",
+                    "last_commit": "2022-06-06T18:18:16Z",
+                    "owner": "dannnylo",
+                    "repo": "tesseract-ocr-elixir",
+                    "stars": 60
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Elixir"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gosseract",
+                  "description": "Golang OCR library, wrapping Tesseract-ocr.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13492546,
+                    "language": "Go",
+                    "last_commit": "2026-01-16T16:26:55Z",
+                    "owner": "otiai10",
+                    "repo": "gosseract",
+                    "stars": 3130
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Go"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "tess-two",
                   "description": "Tools for compiling Tesseract on Android and Java API.",
                   "children": [],
@@ -972,6 +1097,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "tesseract for .net",
+                  "description": "A .Net wrapper for tesseract-ocr.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7067424,
+                    "language": "C#",
+                    "last_commit": "2025-04-29T03:09:02Z",
+                    "owner": "charlesw",
+                    "repo": "tesseract",
+                    "stars": 2460
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ".Net"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TTesseractOCR4",
+                  "description": "Object Pascal binding for tesseract-ocr 4.x.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 99594788,
+                    "language": "Pascal",
+                    "last_commit": "2023-07-13T19:50:56Z",
+                    "owner": "r1me",
+                    "repo": "TTesseractOCR4",
+                    "stars": 151
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Object Pascal"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tesseract OCR for PHP",
+                  "description": "Tesseract PHP bindings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3962354,
+                    "language": "PHP",
+                    "last_commit": "2026-01-27T18:59:01Z",
+                    "owner": "thiagoalessio",
+                    "repo": "tesseract-ocr-for-php",
+                    "stars": 3040
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PHP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "pytesseract",
                   "description": "A Python wrapper for Google Tesseract.",
                   "children": [],
@@ -982,7 +1173,7 @@
                     "last_commit": "2026-07-13T19:52:40Z",
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6382
+                    "stars": 6383
                   }
                 },
                 {
@@ -1049,7 +1240,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38660
+                    "stars": 38662
                   }
                 },
                 {
@@ -1188,6 +1379,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "tesseract.rs",
+                  "description": "Rust bindings for tesseract OCR.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35390815,
+                    "language": "Rust",
+                    "last_commit": "2025-04-19T16:24:50Z",
+                    "owner": "antimatter15",
+                    "repo": "tesseract-rs",
+                    "stars": 175
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tesseract",
+                  "description": "R bindings for tesseract OCR.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52969562,
+                    "language": "R",
+                    "last_commit": "2026-01-26T13:10:53Z",
+                    "owner": "ropensci",
+                    "repo": "tesseract",
+                    "stars": 251
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "R"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "SwiftOCR",
                   "description": "Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.",
                   "children": [],
@@ -1299,6 +1534,21 @@
                 "owner": "jbaiter",
                 "repo": "archiscribe-corpus",
                 "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rescribe",
+              "description": "Transcriptions of Caroline Minuscule Manuscripts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122229609,
+                "language": null,
+                "last_commit": "2022-10-06T11:14:49Z",
+                "owner": "rescribe",
+                "repo": "carolineminuscule-groundtruth",
+                "stars": 11
               }
             },
             {
@@ -1661,6 +1911,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Ocropus Wiki: Publications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25888595,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-05-22T21:57:32Z",
+                "owner": "ocropus-archive",
+                "repo": "DUP-ocropy",
+                "stars": 3465
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OCR-related publication and link lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Ocropus Wiki: Compute errors and confusions",
               "description": "(2016) @zuphilip",
               "children": [],
@@ -1812,13 +2084,100 @@
           "description": null,
           "node_type": "group",
           "title": "OCR Showcases"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Important New Developments in Arabographic Optical Character Recognition (OCR)",
+                  "description": "(2016) Romanov, Miller, Savant, Kiessling",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "using OpenArabic/OCR_GS_Data",
+                      "description": "for ground truth data",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 69099273,
+                        "language": "HTML",
+                        "last_commit": "2017-06-15T11:44:00Z",
+                        "owner": "OpenArabic",
+                        "repo": "OCR_GS_Data",
+                        "stars": 18
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2016"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Telugu OCR Framework using Deep Learning",
+                  "description": "(2015/2017) Achanta, Hastie",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "see also TeluguOCR",
+                      "description": ", banti_telugu_ocr, chamanti_ocr, #49",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 29121032,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2026-04-13T23:02:56Z",
+                        "owner": "rakeshvar",
+                        "repo": "banti_telugu_ocr",
+                        "stars": 52
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2017"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Two-Stage Method for Text Line Detection in Historical Documents",
+                  "description": "(2018) Grüning, Leifert, Strauß, Labahn. Code available at https://github.com/TobiasGruening/ARU-Net",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 113419398,
+                    "language": "Python",
+                    "last_commit": "2023-04-04T06:03:07Z",
+                    "owner": "TobiasGruening",
+                    "repo": "ARU-Net",
+                    "stars": 141
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2018"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Academic articles"
         }
       ],
       "title": "Literature"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:46:22.104Z",
+    "last_updated": "2026-08-24T14:01:33.640Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_id": 57230505,
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
