@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 22887094,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:58:08Z",
+                "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76168
+                "stars": 76181
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29935
+                "stars": 29936
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T14:16:15Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6311
+                "stars": 6312
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T20:58:28Z",
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1058
+                "stars": 1059
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-22T03:30:49Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34571
+                "stars": 34574
               }
             },
             {
@@ -490,10 +490,10 @@
                 "archived": false,
                 "id": 22887094,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:58:08Z",
+                "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76168
+                "stars": 76181
               }
             },
             {
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 77929618,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:57:29Z",
+                "last_commit": "2026-08-25T12:50:46Z",
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 199
@@ -762,7 +762,7 @@
                 "last_commit": "2023-09-15T05:11:05Z",
                 "owner": "tleyden",
                 "repo": "open-ocr",
-                "stars": 1371
+                "stars": 1372
               }
             },
             {
@@ -1173,7 +1173,7 @@
                     "last_commit": "2026-07-13T19:52:40Z",
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6382
+                    "stars": 6383
                   }
                 },
                 {
@@ -1240,7 +1240,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38667
+                    "stars": 38669
                   }
                 },
                 {
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:04.216Z",
+    "last_updated": "2026-08-25T17:56:21.963Z",
     "original_repository": "kba/awesome-ocr",
     "original_repository_id": 57230505,
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
