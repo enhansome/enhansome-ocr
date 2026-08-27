@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76181
+                "stars": 76203
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29936
+                "stars": 29943
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T14:16:15Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6312
+                "stars": 6317
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T20:58:28Z",
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1059
+                "stars": 1060
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-22T03:30:49Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34574
+                "stars": 34595
               }
             },
             {
@@ -493,7 +493,7 @@
                 "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76181
+                "stars": 76203
               }
             },
             {
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 77929618,
                 "language": "Java",
-                "last_commit": "2026-08-25T12:50:46Z",
+                "last_commit": "2026-08-27T11:04:23Z",
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 199
@@ -680,7 +680,7 @@
                 "last_commit": "2024-03-18T01:09:42Z",
                 "owner": "ZBar",
                 "repo": "ZBar",
-                "stars": 2545
+                "stars": 2544
               }
             },
             {
@@ -762,7 +762,7 @@
                 "last_commit": "2023-09-15T05:11:05Z",
                 "owner": "tleyden",
                 "repo": "open-ocr",
-                "stars": 1372
+                "stars": 1373
               }
             },
             {
@@ -1048,7 +1048,7 @@
                     "last_commit": "2026-01-16T16:26:55Z",
                     "owner": "otiai10",
                     "repo": "gosseract",
-                    "stars": 3130
+                    "stars": 3131
                   }
                 }
               ],
@@ -1240,7 +1240,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38669
+                    "stars": 38673
                   }
                 },
                 {
@@ -2177,9 +2177,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:56:21.963Z",
-    "original_repository": "kba/awesome-ocr",
-    "original_repository_id": 57230505,
+    "last_updated": "2026-08-27T11:52:42.140Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 57230505,
+      "language": null,
+      "last_commit": "2024-07-06T21:02:05Z",
+      "owner": "kba",
+      "repo": "awesome-ocr",
+      "stars": 3119
+    },
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
     "enhanced_repository": "enhansome/enhansome-ocr",
     "enhanced_repository_description": null,
