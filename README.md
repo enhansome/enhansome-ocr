@@ -1,6 +1,6 @@
 # Awesome OCR with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,557 | 🐛 105 | 📅 2026-08-21
 
 This list contains links to great software tools and libraries and literature
 related to [Optical Character Recognition
@@ -60,9 +60,9 @@ Contributions are welcome, as is feedback.
 
 ### OCR engines
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,203 | 🐛 488 | 🌐 C++ | 📅 2026-08-25 - The definitive Open Source OCR engine `Apache 2.0`
+* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,217 | 🐛 488 | 🌐 C++ | 📅 2026-08-25 - The definitive Open Source OCR engine `Apache 2.0`
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,943 | 🐛 530 | 🌐 Python | 📅 2025-12-05 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
-* [doctr](https://github.com/mindee/doctr) ⭐ 6,317 | 🐛 22 | 🌐 Python | 📅 2026-08-21 - A seamless & high-performing OCR library powered by Deep Learning
+* [doctr](https://github.com/mindee/doctr) ⭐ 6,318 | 🐛 23 | 🌐 Python | 📅 2026-08-21 - A seamless & high-performing OCR library powered by Deep Learning
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,632 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
 * [ocropus](https://github.com/tmbdev/ocropy) ⚠️ Archived - OCR engine based on LSTM, `Apache 2.0`
 * [Calamari](https://github.com/Calamari-OCR/calamari) ⭐ 1,197 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - OCR Engine based on OCRopy and Kraken
@@ -120,14 +120,14 @@ Contributions are welcome, as is feedback.
 
 ### OCR CLI
 
-* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,595 | 🐛 97 | 🌐 Python | 📅 2026-08-22 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,600 | 🐛 98 | 🌐 Python | 📅 2026-08-22 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) ⭐ 306 | 🐛 2 | 🌐 Python | 📅 2026-05-24 - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
 * [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2025-03-31 - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
 
 ### OCR GUI
 
-* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 76,203 | 🐛 488 | 🌐 C++ | 📅 2026-08-25 editor
+* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 76,217 | 🐛 488 | 🌐 C++ | 📅 2026-08-25 editor
 * [Paperless](https://github.com/danielquinn/paperless) ⚠️ Archived - Scan, index, and archive all of your paper documents.
 * [Paperwork](https://github.com/openpaperwork/paperwork) ⚠️ Archived - Using scanners and OCR to grep paper documents the easy way.
 * [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 1,984 | 🐛 74 | 🌐 C++ | 📅 2026-01-15 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
@@ -197,7 +197,7 @@ Contributions are welcome, as is feedback.
 
 #### .Net
 
-* [tesseract for .net](https://github.com/charlesw/tesseract) ⭐ 2,460 | 🐛 231 | 🌐 C# | 📅 2025-04-29 - A .Net wrapper for tesseract-ocr.
+* [tesseract for .net](https://github.com/charlesw/tesseract) ⭐ 2,461 | 🐛 231 | 🌐 C# | 📅 2025-04-29 - A .Net wrapper for tesseract-ocr.
 
 #### Object Pascal
 
@@ -216,7 +216,7 @@ Contributions are welcome, as is feedback.
 
 #### Javascript
 
-* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,673 | 🐛 47 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
+* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,674 | 🐛 47 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,517 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - Javascript port (emscripten) of ocrad
 * [node-tesseract-ocr](https://github.com/zapolnoch/node-tesseract-ocr) ⭐ 320 | 🐛 24 | 🌐 JavaScript | 📅 2023-07-13 - A simple wrapper for the Tesseract OCR package.
 * [gocr.js](https://github.com/antimatter15/gocr.js) ⭐ 100 | 🐛 3 | 🌐 C | 📅 2013-12-31 - Javascript port (emscripten) of gocr
@@ -387,7 +387,7 @@ Contributions are welcome, as is feedback.
 #### 2017
 
 * [Telugu OCR Framework using Deep Learning](https://arxiv.org/abs/1509.05962) (2015/2017) [Achanta](https://github.com/rakeshvar), Hastie
-  * see also [TeluguOCR](https://github.com/TeluguOCR), [banti\_telugu\_ocr](https://github.com/TeluguOCR/banti_telugu_ocr) ⭐ 52 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-04-13, [chamanti\_ocr](https://github.com/rakeshvar/chamanti_ocr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-08-25, [#49](https://github.com/kba/awesome-ocr/issues/49) ⭐ 3,119 | 🐛 65 | 📅 2024-07-06
+  * see also [TeluguOCR](https://github.com/TeluguOCR), [banti\_telugu\_ocr](https://github.com/TeluguOCR/banti_telugu_ocr) ⭐ 52 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-04-13, [chamanti\_ocr](https://github.com/rakeshvar/chamanti_ocr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-08-25, [#49](https://github.com/kba/awesome-ocr/issues/49) ⭐ 3,119 | 🐛 64 | 📅 2024-07-06
 
 #### 2018
 
@@ -395,4 +395,4 @@ Contributions are welcome, as is feedback.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

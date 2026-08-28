@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76203
+                "stars": 76217
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T14:16:15Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6317
+                "stars": 6318
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-22T03:30:49Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34595
+                "stars": 34600
               }
             },
             {
@@ -493,7 +493,7 @@
                 "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76203
+                "stars": 76217
               }
             },
             {
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 77929618,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:04:23Z",
+                "last_commit": "2026-08-27T13:07:57Z",
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 199
@@ -1107,7 +1107,7 @@
                     "last_commit": "2025-04-29T03:09:02Z",
                     "owner": "charlesw",
                     "repo": "tesseract",
-                    "stars": 2460
+                    "stars": 2461
                   }
                 }
               ],
@@ -1240,7 +1240,7 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38673
+                    "stars": 38674
                   }
                 },
                 {
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:42.140Z",
+    "last_updated": "2026-08-28T01:36:17.495Z",
     "original_repository_info": {
       "archived": false,
       "id": 57230505,
