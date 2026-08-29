@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tesseract Open Source OCR Engine (main repository)",
+                "homepage": "https://tesseract-ocr.github.io/",
                 "id": 22887094,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T15:34:02Z",
+                "open_issues": 491,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76237
+                "stars": 76238,
+                "topics": [
+                  "hacktoberfest",
+                  "lstm",
+                  "machine-learning",
+                  "ocr",
+                  "ocr-engine",
+                  "tesseract",
+                  "tesseract-ocr"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -28,12 +41,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+                "homepage": "https://www.jaided.ai",
                 "id": 247266215,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T12:23:12Z",
+                "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29945
+                "stars": 29947,
+                "topics": [
+                  "cnn",
+                  "crnn",
+                  "data-mining",
+                  "deep-learning",
+                  "easyocr",
+                  "image-processing",
+                  "information-retrieval",
+                  "lstm",
+                  "machine-learning",
+                  "ocr",
+                  "optical-character-recognition",
+                  "python",
+                  "pytorch",
+                  "scene-text",
+                  "scene-text-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -44,12 +78,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k.",
+                "homepage": "https://mindee.github.io/doctr/",
                 "id": 327949189,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:33:36Z",
+                "open_issues": 22,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6323
+                "stars": 6323,
+                "topics": [
+                  "deep-learning",
+                  "document-recognition",
+                  "ocr",
+                  "optical-character-recognition",
+                  "pytorch",
+                  "tensorflow2",
+                  "text-detection",
+                  "text-detection-recognition",
+                  "text-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -60,12 +109,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and simple OCR library written in Swift",
+                "homepage": null,
                 "id": 56840338,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-13T08:49:55Z",
+                "open_issues": 86,
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4631
+                "stars": 4631,
+                "topics": [
+                  "deprecated",
+                  "ios",
+                  "macos",
+                  "ocr",
+                  "ocr-engine",
+                  "ocr-library",
+                  "optical-character-recognition",
+                  "swift",
+                  "swiftocr"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -76,12 +140,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python-based tools for document analysis and OCR",
+                "homepage": null,
                 "id": 25888595,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-22T21:57:32Z",
+                "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3465
+                "stars": 3465,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -92,12 +161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Line based ATR Engine based on OCRopy",
+                "homepage": null,
                 "id": 126039059,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-23T22:11:57Z",
+                "open_issues": 66,
                 "owner": "Calamari-OCR",
                 "repo": "calamari",
-                "stars": 1197
+                "stars": 1197,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -108,12 +182,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.",
+                "homepage": null,
                 "id": 97976723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-20T17:48:54Z",
+                "open_issues": 27,
                 "owner": "emedvedev",
                 "repo": "attention-ocr",
-                "stars": 1086
+                "stars": 1086,
+                "topics": [
+                  "cnn",
+                  "google-cloud",
+                  "google-cloud-ml",
+                  "hacktoberfest",
+                  "image-recognition",
+                  "machine-learning",
+                  "ml",
+                  "ocr",
+                  "ocr-recognition",
+                  "seq2seq",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -124,12 +215,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR engine for all the languages",
+                "homepage": "http://kraken.re",
                 "id": 35872353,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T20:58:28Z",
+                "open_issues": 19,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1061
+                "stars": 1061,
+                "topics": [
+                  "alto-xml",
+                  "handwritten-text-recognition",
+                  "hocr",
+                  "htr",
+                  "layout-analysis",
+                  "neural-networks",
+                  "ocr",
+                  "optical-character-recognition",
+                  "page-xml"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -140,12 +246,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple python OCR engine using opencv",
+                "homepage": null,
                 "id": 6209992,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-02-01T19:53:51Z",
+                "open_issues": 1,
                 "owner": "gitanat",
                 "repo": "simple-ocr-opencv",
-                "stars": 532
+                "stars": 532,
+                "topics": [
+                  "knn-algorithm",
+                  "machine-learning",
+                  "machine-vision",
+                  "machinelearning",
+                  "machinevision",
+                  "ocr",
+                  "opencv",
+                  "python-ocr",
+                  "supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -156,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ocular is a state-of-the-art historical OCR system.",
+                "homepage": null,
                 "id": 38082419,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-07T03:36:43Z",
+                "open_issues": 10,
                 "owner": "tberg12",
                 "repo": "ocular",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -172,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSX-buildable fork of ocropus 0.4",
+                "homepage": null,
                 "id": 581605,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2011-09-30T15:25:11Z",
+                "open_issues": 3,
                 "owner": "jkrall",
                 "repo": "ocropus",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -195,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hebrew OCR (optical character recognition) library.",
+                "homepage": null,
                 "id": 43222204,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2016-02-08T20:12:05Z",
+                "open_issues": 1,
                 "owner": "yaacov",
                 "repo": "hebocr",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -218,12 +354,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conversions between various OCR formats",
+                "homepage": null,
                 "id": 41048716,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-13T10:27:38Z",
+                "open_issues": 0,
                 "owner": "cneud",
                 "repo": "ocr-conversion",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "abbyy-xml",
+                  "alto-xml",
+                  "hocr",
+                  "ocr",
+                  "page-xml",
+                  "tei-xml"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -236,12 +384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML.",
+                    "homepage": null,
                     "id": 25888229,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-10T17:57:15Z",
+                    "open_issues": 42,
                     "owner": "ocropus",
                     "repo": "hocr-tools",
-                    "stars": 418
+                    "stars": 418,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -252,12 +405,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Validate and transform various OCR file formats (hOCR, ALTO, PAGE, FineReader)",
+                    "homepage": "https://digi.bib.uni-mannheim.de/ocr-fileformat/",
                     "id": 55786219,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-21T13:38:57Z",
+                    "open_issues": 36,
                     "owner": "UB-Mannheim",
                     "repo": "ocr-fileformat",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": [
+                      "alto",
+                      "finereader",
+                      "hocr",
+                      "ocr",
+                      "ocr-d",
+                      "page-xml",
+                      "transformation",
+                      "validation"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -268,12 +435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The hOCR Embedded OCR Workflow and Output Format",
+                    "homepage": "http://kba.github.io/hocr-spec/1.2/",
                     "id": 53006400,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2024-08-12T09:42:24Z",
+                    "open_issues": 55,
                     "owner": "kba",
                     "repo": "hocr-spec",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -284,12 +456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HOCR Specification Python Parser",
+                    "homepage": null,
                     "id": 42884786,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2015-09-23T09:01:30Z",
+                    "open_issues": 0,
                     "owner": "athento",
                     "repo": "hocr-parser",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -300,12 +477,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utilities to process and handle hOCR",
+                    "homepage": null,
                     "id": 37593769,
                     "language": "XSLT",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-07-31T06:21:33Z",
+                    "open_issues": 0,
                     "owner": "ONB-RD",
                     "repo": "hOCRTools",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -323,12 +505,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ALTO XML schema - latest and all former versions",
+                    "homepage": null,
                     "id": 14496741,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-07-08T11:41:03Z",
+                    "open_issues": 27,
                     "owner": "altoxml",
                     "repo": "schema",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": [
+                      "alto",
+                      "alto-xml",
+                      "alto-xml-schema",
+                      "ocr",
+                      "optical-character-recognition",
+                      "schema"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -339,12 +533,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python tools for performing various operations on ALTO XML files",
+                    "homepage": null,
                     "id": 41920805,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-12T22:26:09Z",
+                    "open_issues": 1,
                     "owner": "cneud",
                     "repo": "alto-tools",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": [
+                      "alto-xml",
+                      "digital-library",
+                      "optical-character-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -355,12 +558,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Documentation and use cases for ALTO XML",
+                    "homepage": null,
                     "id": 14533997,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-09-10T23:56:25Z",
+                    "open_issues": 1,
                     "owner": "altoxml",
                     "repo": "documentation",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -371,12 +579,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Converter for Abbyy FineReader XML output to the ALTO XML Standard",
+                    "homepage": "http://dev.llgc.org.uk/wiki/index.php?title=The_Abbyy_to_ALTO_Converter",
                     "id": 1693311,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2011-05-09T11:12:07Z",
+                    "open_issues": 0,
                     "owner": "ironymark",
                     "repo": "AbbyyToAlto",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -394,12 +607,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TEI customization for OCR generated layout and content information",
+                    "homepage": null,
                     "id": 51874519,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2016-03-22T14:48:57Z",
+                    "open_issues": 0,
                     "owner": "OpenPhilology",
                     "repo": "tei-ocr",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -417,12 +635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PAGE XML format collection for document image page content and more",
+                    "homepage": null,
                     "id": 111527674,
                     "language": "XSLT",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-16T21:26:32Z",
+                    "open_issues": 11,
                     "owner": "PRImA-Research-Lab",
                     "repo": "PAGE-XML",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -433,12 +656,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library in C++ and a python wrapper for dealing with Page XML files",
+                    "homepage": null,
                     "id": 145522858,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-04-25T13:41:28Z",
+                    "open_issues": 0,
                     "owner": "omni-us",
                     "repo": "pagexml",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "annotation-processing",
+                      "docker-image",
+                      "document-representation",
+                      "pagexml",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -461,12 +695,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+                "homepage": "http://ocrmypdf.readthedocs.io/",
                 "id": 15333471,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T22:15:03Z",
+                "open_issues": 98,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34604
+                "stars": 34603,
+                "topics": [
+                  "image-processing",
+                  "ocr",
+                  "pdf",
+                  "python",
+                  "tesseract"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -477,12 +722,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free tool to OCR a PDF and add a text \"layer\" in the original file, making a searchable PDF. Use only open source tools. Please tip!",
+                "homepage": null,
                 "id": 48244523,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-24T14:41:20Z",
+                "open_issues": 2,
                 "owner": "LeoFCardoso",
                 "repo": "pdf2pdfocr",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "docker",
+                  "ocr",
+                  "pdf",
+                  "pdftk",
+                  "python",
+                  "tesseract"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -493,12 +750,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool that does layout analysis and/or text recognition using tesseract and outputs the result in Page XML format",
+                "homepage": null,
                 "id": 78739814,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-03-31T05:24:50Z",
+                "open_issues": 0,
                 "owner": "mauvilsa",
                 "repo": "tesseract-recognize",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "cli",
+                  "docker-image",
+                  "document-recognition",
+                  "ocr",
+                  "optical-character-recognition",
+                  "pagexml",
+                  "tesseract",
+                  "text-detection"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -516,12 +787,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tesseract Open Source OCR Engine (main repository)",
+                "homepage": "https://tesseract-ocr.github.io/",
                 "id": 22887094,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T15:34:02Z",
+                "open_issues": 491,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76237
+                "stars": 76238,
+                "topics": [
+                  "hacktoberfest",
+                  "lstm",
+                  "machine-learning",
+                  "ocr",
+                  "ocr-engine",
+                  "tesseract",
+                  "tesseract-ocr"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -532,12 +816,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scan, index, and archive all of your paper documents",
+                "homepage": null,
                 "id": 48320384,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-06T20:00:58Z",
+                "open_issues": 177,
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7912
+                "stars": 7912,
+                "topics": [
+                  "archiving",
+                  "documents",
+                  "ocr",
+                  "paper",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -548,12 +843,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab",
+                "homepage": "https://gitlab.gnome.org/World/OpenPaperwork/paperwork",
                 "id": 1955800,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-26T10:12:12Z",
+                "open_issues": 140,
                 "owner": "openpaperwork",
                 "repo": "paperwork",
-                "stars": 2432
+                "stars": 2432,
+                "topics": [
+                  "dms",
+                  "document-management",
+                  "edms",
+                  "gtk",
+                  "gtk3",
+                  "indexing",
+                  "ocr",
+                  "paperwork",
+                  "pdf",
+                  "personal-document-system",
+                  "python",
+                  "python3",
+                  "sane",
+                  "scanner"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -564,12 +879,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gtk/Qt front-end to tesseract-ocr.",
+                "homepage": null,
                 "id": 16681717,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-15T10:07:56Z",
+                "open_issues": 74,
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 1985
+                "stars": 1985,
+                "topics": [
+                  "c-plus-plus",
+                  "gtk",
+                  "hocr",
+                  "hocr-documents",
+                  "ocr",
+                  "pdf-document",
+                  "qt",
+                  "scanner",
+                  "tesseract-ocr"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -580,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.",
+                "homepage": null,
                 "id": 77929618,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:45:48Z",
+                "open_issues": 37,
                 "owner": "OCR4all",
                 "repo": "LAREX",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -596,12 +931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QT Box Editor of tesseract-ocr box files",
+                "homepage": "https://zdenop.github.io/qt-box-editor/",
                 "id": 1275912,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-14T18:38:09Z",
+                "open_issues": 3,
                 "owner": "zdenop",
                 "repo": "qt-box-editor",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -612,12 +952,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ergonomic line-by-line transcription of scanned text.",
+                "homepage": null,
                 "id": 55622909,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-02T14:58:19Z",
+                "open_issues": 19,
                 "owner": "UB-Mannheim",
                 "repo": "ocr-gt-tools",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "ground-truth",
+                  "hocr",
+                  "ocr",
+                  "transcription",
+                  "web-interface"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -628,12 +979,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CIS OCR PostCorrectionTool",
+                "homepage": null,
                 "id": 50172771,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-07T13:48:11Z",
+                "open_issues": 12,
                 "owner": "cisocrgroup",
                 "repo": "PoCoTo",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -644,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java based viewer for PAGE XML files (layout + text content). Also supports ALTO XML, FineReader XML, and HOCR.",
+                "homepage": null,
                 "id": 25030803,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-25T18:58:58Z",
+                "open_issues": 10,
                 "owner": "PRImA-Research-Lab",
                 "repo": "prima-page-viewer",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -660,12 +1021,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple app for visual editing of Page XML files",
+                "homepage": null,
                 "id": 68455945,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T06:20:43Z",
+                "open_issues": 1,
                 "owner": "mauvilsa",
                 "repo": "nw-page-editor",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "annotation-tool",
+                  "desktop-app",
+                  "docker-image",
+                  "editor",
+                  "pagexml",
+                  "server-app"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -676,12 +1049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application for transcribing OCR ground truth from Archive.org",
+                "homepage": null,
                 "id": 105246738,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2018-02-22T22:17:30Z",
+                "open_issues": 0,
                 "owner": "jbaiter",
                 "repo": "archiscribe",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -692,12 +1070,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "hOCR editor for Firefox",
+                "homepage": "http://jimgarrison.org/moz-hocr-edit/",
                 "id": 10878300,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2015-04-08T22:00:33Z",
+                "open_issues": 1,
                 "owner": "garrison",
                 "repo": "moz-hocr-edit",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -715,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar",
+                "homepage": "http://zbar.sourceforge.net/",
                 "id": 5914933,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-03-18T01:09:42Z",
+                "open_issues": 19,
                 "owner": "ZBar",
                 "repo": "ZBar",
-                "stars": 2544
+                "stars": 2544,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -731,12 +1119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mapping photos of Old New York",
+                "homepage": null,
                 "id": 23742071,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-14T16:55:17Z",
+                "open_issues": 34,
                 "owner": "danvk",
                 "repo": "oldnyc",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -747,12 +1140,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scientific document recognition system",
+                "homepage": null,
                 "id": 32462404,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-19T02:06:26Z",
+                "open_issues": 3,
                 "owner": "chungkwong",
                 "repo": "MathOCR",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "latex",
+                  "optical-character-recognition",
+                  "scientific-document-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -763,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Document image binarization for Project 3A @Mines_Nancy",
+                "homepage": "http://zpjiang.me/2013/10/04/document-binarization/",
                 "id": 13328521,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-09T12:31:07Z",
+                "open_issues": 0,
                 "owner": "0x333333",
                 "repo": "binarizewolfjolion",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -779,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository for typefaces to train Tesseract and OCRopus for natural history collections and digital humanities.",
+                "homepage": null,
                 "id": 15117210,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-12-13T18:35:37Z",
+                "open_issues": 0,
                 "owner": "jbest",
                 "repo": "typeface-corpus",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -802,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run your own OCR-as-a-Service using Tesseract and Docker",
+                "homepage": null,
                 "id": 19649539,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-15T05:11:05Z",
+                "open_issues": 37,
                 "owner": "tleyden",
                 "repo": "open-ocr",
-                "stars": 1373
+                "stars": 1373,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -818,12 +1235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides OCR (Optical Character Recognition) services through web applications",
+                "homepage": null,
                 "id": 167159229,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-02-05T11:34:20Z",
+                "open_issues": 26,
                 "owner": "OCR4all",
                 "repo": "OCR4all",
-                "stars": 709
+                "stars": 709,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -834,12 +1256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of RESTful web service for tesseract-OCR using tornado",
+                "homepage": null,
                 "id": 14636455,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-20T20:31:42Z",
+                "open_issues": 5,
                 "owner": "guitarmind",
                 "repo": "tesseract-web-service",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -850,12 +1277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An expandable and scalable OCR pipeline",
+                "homepage": null,
                 "id": 33791358,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2017-11-14T16:23:46Z",
+                "open_issues": 5,
                 "owner": "OpenPhilology",
                 "repo": "nidaba",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -866,12 +1298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gamera 3 for Python 2 (deprecated)",
+                "homepage": null,
                 "id": 58319227,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2022-08-15T08:30:12Z",
+                "open_issues": 5,
                 "owner": "hsnr-gamera",
                 "repo": "gamera-3",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -882,12 +1319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR recognition with Ocropus in a Docker container",
+                "homepage": "https://hub.docker.com/r/kbai/ocropy",
                 "id": 57166961,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-12-16T17:12:54Z",
+                "open_issues": 1,
                 "owner": "kba",
                 "repo": "docker-ocropy",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -898,12 +1340,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 11152828,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-06-23T20:42:10Z",
+                "open_issues": 5,
                 "owner": "subugoe",
                 "repo": "ocr-tools",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -914,12 +1361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker container for the kraken OCR engine",
+                "homepage": "https://hub.docker.com/r/kbai/kraken/",
                 "id": 65498345,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2017-12-16T22:21:44Z",
+                "open_issues": 3,
                 "owner": "kba",
                 "repo": "kraken-docker",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -930,12 +1382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GNU ocrad in a docker container",
+                "homepage": "https://hub.docker.com/r/kbai/ocrad/",
                 "id": 65683679,
                 "language": "Makefile",
+                "license": "GPL-3.0",
                 "last_commit": "2016-08-15T06:54:00Z",
+                "open_issues": 0,
                 "owner": "kba",
                 "repo": "ocrad-docker",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -953,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR evaluation brought to you by University of Alicante",
+                "homepage": null,
                 "id": 12730008,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-01T22:50:27Z",
+                "open_issues": 9,
                 "owner": "impactcentre",
                 "repo": "ocrevalUAtion",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -974,12 +1436,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support",
+                    "homepage": "https://eddieantonio.ca/ocreval",
                     "id": 45189025,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-04-16T20:57:14Z",
+                    "open_issues": 7,
                     "owner": "eddieantonio",
                     "repo": "ocreval",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": [
+                      "hacktoberfest",
+                      "isri-analytic",
+                      "linux",
+                      "macos",
+                      "ocr",
+                      "ocr-evaluation",
+                      "tesseract-ocr",
+                      "unicode",
+                      "utf-8"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -990,24 +1467,44 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "'ocr-evaluation-tools' from http://ancientgreekocr.org/. Tools to test OCR accuracy.",
+                    "homepage": null,
                     "id": 26870875,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-02-21T16:33:32Z",
+                    "open_issues": 1,
                     "owner": "ryanfb",
                     "repo": "ancientgreekocr-ocr-evaluation-tools",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support",
+                "homepage": "https://eddieantonio.ca/ocreval",
                 "id": 45189025,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-16T20:57:14Z",
+                "open_issues": 7,
                 "owner": "eddieantonio",
                 "repo": "ocreval",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "hacktoberfest",
+                  "isri-analytic",
+                  "linux",
+                  "macos",
+                  "ocr",
+                  "ocr-evaluation",
+                  "tesseract-ocr",
+                  "unicode",
+                  "utf-8"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1018,12 +1515,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QA-tool for scans with corresponding ALTO-files",
+                "homepage": null,
                 "id": 12905593,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-02T11:51:38Z",
+                "open_issues": 12,
                 "owner": "tokee",
                 "repo": "quack",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "alto",
+                  "newspaper-analysis",
+                  "openseadragon",
+                  "qa",
+                  "qatools",
+                  "scans"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1034,12 +1543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SucceedEU hackathon 2014 @ University of Alicante",
+                "homepage": null,
                 "id": 18810132,
                 "language": "Scheme",
+                "license": null,
                 "last_commit": "2014-04-17T08:22:44Z",
+                "open_issues": 0,
                 "owner": "impactcentre",
                 "repo": "hackathon2014",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -1059,12 +1573,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a wrapper of Tesseract OCR. Helping to read characters on an image.",
+                    "homepage": null,
                     "id": 201856440,
                     "language": "Crystal",
+                    "license": "MIT",
                     "last_commit": "2022-06-06T18:12:40Z",
+                    "open_issues": 0,
                     "owner": "dannnylo",
                     "repo": "tesseract-ocr-crystal",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "hacktoberfest",
+                      "tesseract",
+                      "tesseract-ocr"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1082,12 +1605,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This package is a wrapper of Tesseract OCR. Helping to read characters on an image.",
+                    "homepage": null,
                     "id": 132394406,
                     "language": "Elixir",
+                    "license": "MIT",
                     "last_commit": "2022-06-06T18:18:16Z",
+                    "open_issues": 1,
                     "owner": "dannnylo",
                     "repo": "tesseract-ocr-elixir",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": [
+                      "hacktoberfest",
+                      "tesseract",
+                      "tesseract-ocr"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1105,12 +1637,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go package for OCR (Optical Character Recognition), by using Tesseract C++ library",
+                    "homepage": "https://pkg.go.dev/github.com/otiai10/gosseract",
                     "id": 13492546,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-01-16T16:26:55Z",
+                    "open_issues": 32,
                     "owner": "otiai10",
                     "repo": "gosseract",
-                    "stars": 3132
+                    "stars": 3132,
+                    "topics": [
+                      "go",
+                      "ocr",
+                      "ocr-server",
+                      "tesseract",
+                      "tesseract-ocr"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1128,12 +1671,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Fork of Tesseract Tools for Android",
+                    "homepage": null,
                     "id": 2581357,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-03-17T11:24:00Z",
+                    "open_issues": 0,
                     "owner": "rmtheis",
                     "repo": "tess-two",
-                    "stars": 3764
+                    "stars": 3764,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1144,12 +1692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java JNA wrapper for Tesseract OCR API",
+                    "homepage": null,
                     "id": 21221909,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-28T19:31:22Z",
+                    "open_issues": 26,
                     "owner": "nguyenq",
                     "repo": "tess4j",
-                    "stars": 1757
+                    "stars": 1757,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1167,12 +1720,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A .Net wrapper for tesseract-ocr",
+                    "homepage": null,
                     "id": 7067424,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-29T03:09:02Z",
+                    "open_issues": 231,
                     "owner": "charlesw",
                     "repo": "tesseract",
-                    "stars": 2461
+                    "stars": 2461,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1190,12 +1748,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Object Pascal binding for tesseract-ocr - an optical character recognition engine",
+                    "homepage": null,
                     "id": 99594788,
                     "language": "Pascal",
+                    "license": "MIT",
                     "last_commit": "2023-07-13T19:50:56Z",
+                    "open_issues": 6,
                     "owner": "r1me",
                     "repo": "TTesseractOCR4",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1213,12 +1776,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A wrapper to work with Tesseract OCR inside PHP.",
+                    "homepage": "https://packagist.org/packages/thiagoalessio/tesseract_ocr",
                     "id": 3962354,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-01-27T18:59:01Z",
+                    "open_issues": 7,
                     "owner": "thiagoalessio",
                     "repo": "tesseract-ocr-for-php",
-                    "stars": 3041
+                    "stars": 3041,
+                    "topics": [
+                      "image-to-text",
+                      "ocr",
+                      "php",
+                      "tesseract",
+                      "text-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1236,12 +1810,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python wrapper for Google Tesseract",
+                    "homepage": null,
                     "id": 1030255,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-13T19:52:40Z",
+                    "open_issues": 21,
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6384
+                    "stars": 6384,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1252,12 +1831,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python wrapper for the tesseract-ocr API",
+                    "homepage": null,
                     "id": 48203815,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-04T12:28:33Z",
+                    "open_issues": 46,
                     "owner": "sirfz",
                     "repo": "tesserocr",
-                    "stars": 2171
+                    "stars": 2171,
+                    "topics": [
+                      "cython",
+                      "ocr",
+                      "optical-character-recognition",
+                      "python-library",
+                      "tesseract"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1268,12 +1858,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Python wrapper for Tesseract and Cuneiform -- Moved to Gnome's Gitlab",
+                    "homepage": "https://gitlab.gnome.org/World/OpenPaperwork/pyocr",
                     "id": 2417218,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-06-13T13:01:15Z",
+                    "open_issues": 18,
                     "owner": "openpaperwork",
                     "repo": "pyocr",
-                    "stars": 926
+                    "stars": 926,
+                    "topics": [
+                      "cuneiform",
+                      "ocr",
+                      "pil",
+                      "pillow",
+                      "python",
+                      "python27",
+                      "python3",
+                      "tesseract-ocr",
+                      "tesseract-ocr-api"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1284,12 +1889,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "OCR for DjVu",
+                    "homepage": null,
                     "id": 36513714,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-10-03T14:45:53Z",
+                    "open_issues": 22,
                     "owner": "jwilk-archive",
                     "repo": "ocrodjvu",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": [
+                      "djvu"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1307,12 +1919,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+                    "homepage": "http://tesseract.projectnaptha.com/",
                     "id": 37958358,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-17T04:19:12Z",
+                    "open_issues": 48,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38676
+                    "stars": 38676,
+                    "topics": [
+                      "deep-learning",
+                      "javascript",
+                      "ocr",
+                      "tesseract",
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1323,12 +1946,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OCR in Javascript via Emscripten",
+                    "homepage": "http://antimatter15.github.io/ocrad.js/demo.html",
                     "id": 15534164,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-09-02T20:34:54Z",
+                    "open_issues": 28,
                     "owner": "antimatter15",
                     "repo": "ocrad.js",
-                    "stars": 3517
+                    "stars": 3517,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1339,12 +1967,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Node.js wrapper for the Tesseract OCR API",
+                    "homepage": null,
                     "id": 152329128,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-13T18:17:01Z",
+                    "open_issues": 24,
                     "owner": "zapolnoch",
                     "repo": "node-tesseract-ocr",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": [
+                      "image-to-text",
+                      "ocr",
+                      "tesseract",
+                      "text-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1355,12 +1993,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OCR in Javascript via Emscripten",
+                    "homepage": "http://antimatter15.github.io/gocr.js/demo.html",
                     "id": 15534175,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2013-12-31T04:23:46Z",
+                    "open_issues": 3,
                     "owner": "antimatter15",
                     "repo": "gocr.js",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1371,12 +2014,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C++ module for node providing OCR with tesseract and leptonica",
+                    "homepage": null,
                     "id": 7072139,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2018-11-17T21:36:10Z",
+                    "open_issues": 0,
                     "owner": "mdelete",
                     "repo": "node-tesseract-native",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1387,12 +2035,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pure javascript lstm rnn implementation based on ocropus",
+                    "homepage": null,
                     "id": 29475338,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-02-06T04:35:21Z",
+                    "open_issues": 0,
                     "owner": "naptha",
                     "repo": "ocracy",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1410,12 +2063,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby library for working with the Tesseract OCR.",
+                    "homepage": "http://rubygems.org/gems/rtesseract",
                     "id": 861214,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2025-04-30T22:24:16Z",
+                    "open_issues": 3,
                     "owner": "dannnylo",
                     "repo": "rtesseract",
-                    "stars": 883
+                    "stars": 883,
+                    "topics": [
+                      "hacktoberfest",
+                      "rtesseract",
+                      "ruby",
+                      "tesseract",
+                      "tesseract-ocr"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1426,12 +2090,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Ruby wrapper library to the tesseract-ocr API.",
+                    "homepage": null,
                     "id": 2856487,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2017-07-02T12:07:20Z",
+                    "open_issues": 24,
                     "owner": "meh",
                     "repo": "ruby-tesseract-ocr",
-                    "stars": 636
+                    "stars": 636,
+                    "topics": [
+                      "ruby",
+                      "rubynlp",
+                      "tesseract-ocr",
+                      "wrapper"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1442,12 +2116,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free Online OCR for Ruby - Convert images to text",
+                    "homepage": null,
                     "id": 75321030,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2019-02-06T21:45:51Z",
+                    "open_issues": 2,
                     "owner": "suyesh",
                     "repo": "ocr_space",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": [
+                      "converting-images",
+                      "ocr",
+                      "ocr-ruby",
+                      "ocr-service",
+                      "ocr-space",
+                      "ruby",
+                      "rubygem"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1465,12 +2152,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rust bindings for Tesseract",
+                    "homepage": null,
                     "id": 35390815,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-04-19T16:24:50Z",
+                    "open_issues": 8,
                     "owner": "antimatter15",
                     "repo": "tesseract-rs",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1488,12 +2180,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bindings to Tesseract OCR engine for R",
+                    "homepage": "https://docs.ropensci.org/tesseract",
                     "id": 52969562,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2026-01-26T13:10:53Z",
+                    "open_issues": 17,
                     "owner": "ropensci",
                     "repo": "tesseract",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": [
+                      "ocr",
+                      "r",
+                      "r-package",
+                      "rstats",
+                      "tesseract",
+                      "tesseract-ocr"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1511,12 +2215,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast and simple OCR library written in Swift",
+                    "homepage": null,
                     "id": 56840338,
                     "language": "Swift",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-12-13T08:49:55Z",
+                    "open_issues": 86,
                     "owner": "NMAC427",
                     "repo": "SwiftOCR",
-                    "stars": 4631
+                    "stars": 4631,
+                    "topics": [
+                      "deprecated",
+                      "ios",
+                      "macos",
+                      "ocr",
+                      "ocr-engine",
+                      "ocr-library",
+                      "optical-character-recognition",
+                      "swift",
+                      "swiftocr"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -1527,12 +2246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.",
+                    "homepage": "http://www.nexor.it",
                     "id": 9769041,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2021-05-03T20:04:54Z",
+                    "open_issues": 120,
                     "owner": "gali8",
                     "repo": "Tesseract-OCR-iOS",
-                    "stars": 4221
+                    "stars": 4221,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -1555,12 +2279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "document image degradation",
+                "homepage": null,
                 "id": 130311803,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-05-18T18:30:04Z",
+                "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "ocrodeg",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1571,12 +2300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Glyph Miner, a system for extracting glyphs from early typeset prints",
+                "homepage": null,
                 "id": 51079811,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2016-09-29T07:53:09Z",
+                "open_issues": 9,
                 "owner": "benedikt-budig",
                 "repo": "glyph-miner",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -1600,12 +2334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manuals, lexica, OCR test data for PoCoTo and the profiler",
+                "homepage": null,
                 "id": 52087568,
                 "language": "Lex",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-02T19:00:40Z",
+                "open_issues": 0,
                 "owner": "cisocrgroup",
                 "repo": "Resources",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1616,12 +2355,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for 19th century German fraktur lines transcribed via archiscribe.jbaiter.de",
+                "homepage": null,
                 "id": 105363650,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2018-12-31T16:12:27Z",
+                "open_issues": 0,
                 "owner": "jbaiter",
                 "repo": "archiscribe-corpus",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "19th-century",
+                  "dataset",
+                  "evaluation-data",
+                  "fraktur",
+                  "historical-data",
+                  "ocr",
+                  "training-data"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1632,12 +2384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR ground truth for Caroline Miniscule",
+                "homepage": null,
                 "id": 122229609,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-06T11:14:49Z",
+                "open_issues": 0,
                 "owner": "rescribe",
                 "repo": "carolineminuscule-groundtruth",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1648,12 +2405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1664,12 +2426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1680,12 +2447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1696,12 +2468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1712,12 +2489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1728,12 +2510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1744,12 +2531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1760,12 +2552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1776,12 +2573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1792,12 +2594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1808,12 +2615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1824,12 +2636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PAGE XML format collection for document image page content and more",
+                "homepage": null,
                 "id": 111527674,
                 "language": "XSLT",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T21:26:32Z",
+                "open_issues": 11,
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1840,12 +2657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Double-checked Gold Standard Data for Training and Testing OCR Engines",
+                "homepage": null,
                 "id": 102371226,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-31T04:42:15Z",
+                "open_issues": 0,
                 "owner": "OpenITI",
                 "repo": "OCR_GS_Data",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1856,12 +2678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collections of english historical texts and data relating to them",
+                "homepage": null,
                 "id": 58620702,
                 "language": "Shell",
+                "license": "CC0-1.0",
                 "last_commit": "2021-03-24T08:02:24Z",
+                "open_issues": 1,
                 "owner": "Anterotesis",
                 "repo": "historical-texts",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1872,12 +2699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collections of english historical texts and data relating to them",
+                "homepage": null,
                 "id": 58620702,
                 "language": "Shell",
+                "license": "CC0-1.0",
                 "last_commit": "2021-03-24T08:02:24Z",
+                "open_issues": 1,
                 "owner": "Anterotesis",
                 "repo": "historical-texts",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1888,12 +2720,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collections of english historical texts and data relating to them",
+                "homepage": null,
                 "id": 58620702,
                 "language": "Shell",
+                "license": "CC0-1.0",
                 "last_commit": "2021-03-24T08:02:24Z",
+                "open_issues": 1,
                 "owner": "Anterotesis",
                 "repo": "historical-texts",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1904,12 +2741,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Old book pages (with groundtruth), formerly used for OCR studies. There are several versions of the set (concerning resolution and binarization). Noised and denoised sets (done by several methods) are eventually going to be uploaded.",
+                "homepage": null,
                 "id": 93446948,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2017-08-25T10:43:05Z",
+                "open_issues": 0,
                 "owner": "PedroBarcha",
                 "repo": "old-books-dataset",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "binarization",
+                  "binarized-dataset",
+                  "books-dataset",
+                  "dataset",
+                  "ground-truth",
+                  "groundtruth",
+                  "ocr-database",
+                  "ocr-dataset",
+                  "old-books",
+                  "old-documents",
+                  "text",
+                  "text-data",
+                  "text-database"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1920,12 +2776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A selection of test lines of several early printed books as well as the corresponding individual OCRopus models and mixed models.",
+                "homepage": null,
                 "id": 113429000,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-12-21T11:24:53Z",
+                "open_issues": 0,
                 "owner": "chreul",
                 "repo": "OCR_Testdata_EarlyPrintedBooks",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1936,12 +2797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Images and groundtruth text for Sanskrit for OCR evaluation",
+                "homepage": null,
                 "id": 66763948,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-09-05T12:31:17Z",
+                "open_issues": 0,
                 "owner": "Shreeshrii",
                 "repo": "imagessan",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1952,12 +2818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Document level full-text of TCP transcribed ECCO docs (2188)",
+                "homepage": null,
                 "id": 49661572,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2016-01-19T16:52:21Z",
+                "open_issues": 0,
                 "owner": "Early-Modern-OCR",
                 "repo": "TCP-ECCO-texts",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1968,12 +2839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FROC-MSS: Old French and Old Occitan Medieval Manuscripts HTR Data and Models",
+                "homepage": null,
                 "id": 162571642,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-08T14:52:11Z",
+                "open_issues": 0,
                 "owner": "Jean-Baptiste-Camps",
                 "repo": "FROC-MSS",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1984,12 +2860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCRization > TEI > Capitains of Latin lexical resources",
+                "homepage": null,
                 "id": 158590645,
                 "language": "HTML",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-06-18T08:48:05Z",
+                "open_issues": 1,
                 "owner": "lascivaroma",
                 "repo": "lexical",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -2000,12 +2881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 163075759,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2019-01-08T07:11:23Z",
+                "open_issues": 1,
                 "owner": "PonteIneptique",
                 "repo": "toebler-ocr",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -2029,12 +2915,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python-based tools for document analysis and OCR",
+                "homepage": null,
                 "id": 25888595,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-22T21:57:32Z",
+                "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3465
+                "stars": 3465,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -2052,12 +2943,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python-based tools for document analysis and OCR",
+                "homepage": null,
                 "id": 25888595,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-22T21:57:32Z",
+                "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3465
+                "stars": 3465,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -2068,12 +2964,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python-based tools for document analysis and OCR",
+                "homepage": null,
                 "id": 25888595,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-22T21:57:32Z",
+                "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3465
+                "stars": 3465,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -2084,12 +2985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various documents related to Tesseract OCR",
+                "homepage": null,
                 "id": 35938244,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-12T19:10:36Z",
+                "open_issues": 0,
                 "owner": "tesseract-ocr",
                 "repo": "docs",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -2105,12 +3011,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert scans of handwritten notes to beautiful, compact PDFs",
+                    "homepage": "https://mzucker.github.io/2016/09/20/noteshrink.html",
                     "id": 67506389,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-20T22:27:57Z",
+                    "open_issues": 21,
                     "owner": "mzucker",
                     "repo": "noteshrink",
-                    "stars": 4841
+                    "stars": 4841,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -2121,12 +3032,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Text page dewarping using a \"cubic sheet\" model ",
+                    "homepage": "https://mzucker.github.io/2016/08/15/page-dewarping.html",
                     "id": 65412330,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-02T13:41:08Z",
+                    "open_issues": 22,
                     "owner": "mzucker",
                     "repo": "page_dewarp",
-                    "stars": 1527
+                    "stars": 1527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 },
@@ -2137,12 +3053,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Perspective recovery of text using transformed ellipses",
+                    "homepage": "https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html",
                     "id": 69774742,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-05-19T06:39:01Z",
+                    "open_issues": 4,
                     "owner": "mzucker",
                     "repo": "unproject_text",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -2162,12 +3083,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scientific document recognition system",
+                "homepage": null,
                 "id": 32462404,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-19T02:06:26Z",
+                "open_issues": 3,
                 "owner": "chungkwong",
                 "repo": "MathOCR",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "latex",
+                  "optical-character-recognition",
+                  "scientific-document-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -2178,12 +3108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evaluating the performance and accuracy of ABBYY FineReader's OCR on Senate Financial Disclosure scanned forms",
+                "homepage": "https://github.com/dannguyen/abbyy-finereader-ocr-senate#using-abbyy-finereader-to-extract-tabular-data-from-us-senators-personal-finance-reports",
                 "id": 54333918,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2016-03-22T17:52:48Z",
+                "open_issues": 0,
                 "owner": "dannguyen",
                 "repo": "abbyy-finereader-ocr-senate",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -2194,12 +3129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OCR(Optical Character Recognition) System implemented to recognize the character in a resume or cv.",
+                "homepage": null,
                 "id": 44239691,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-10-28T10:47:02Z",
+                "open_issues": 1,
                 "owner": "Halfish",
                 "repo": "cvOCR",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             }
@@ -2224,12 +3164,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Double-checked Gold Standard Data for Training and Testing OCR Engines",
+                        "homepage": null,
                         "id": 69099273,
                         "language": "HTML",
+                        "license": null,
                         "last_commit": "2017-06-15T11:44:00Z",
+                        "open_issues": 0,
                         "owner": "OpenArabic",
                         "repo": "OCR_GS_Data",
-                        "stars": 18
+                        "stars": 18,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:06:13.728Z"
                     }
@@ -2254,12 +3199,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "End to end OCR system for Telugu. Based on Convolutional Neural Networks.",
+                        "homepage": null,
                         "id": 29121032,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-04-13T23:02:56Z",
+                        "open_issues": 7,
                         "owner": "rakeshvar",
                         "repo": "banti_telugu_ocr",
-                        "stars": 52
+                        "stars": 52,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:06:13.728Z"
                     }
@@ -2279,12 +3229,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 113419398,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-04-04T06:03:07Z",
+                    "open_issues": 0,
                     "owner": "TobiasGruening",
                     "repo": "ARU-Net",
-                    "stars": 141
+                    "stars": 141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
                 }
@@ -2303,15 +3258,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:06:13.728Z",
+    "last_updated": "2026-08-29T04:20:19.997Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Links to awesome OCR projects",
+      "homepage": "https://github.com/kba/awesome-ocr",
       "id": 57230505,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-07-06T21:02:05Z",
+      "open_issues": 64,
       "owner": "kba",
       "repo": "awesome-ocr",
-      "stars": 3119
+      "stars": 3119,
+      "topics": []
     },
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
     "enhanced_repository": "enhansome/enhansome-ocr",
