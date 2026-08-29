@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76217
-              }
+                "stars": 76237
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29943
-              }
+                "stars": 29945
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 327949189,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:16:15Z",
+                "last_commit": "2026-08-28T13:33:36Z",
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6318
-              }
+                "stars": 6323
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2020-12-13T08:49:55Z",
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4632
-              }
+                "stars": 4631
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
                 "stars": 3465
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Calamari-OCR",
                 "repo": "calamari",
                 "stars": 1197
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "emedvedev",
                 "repo": "attention-ocr",
                 "stars": 1086
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-08-21T20:58:28Z",
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1060
-              }
+                "stars": 1061
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "gitanat",
                 "repo": "simple-ocr-opencv",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "tberg12",
                 "repo": "ocular",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "jkrall",
                 "repo": "ocropus",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -190,7 +201,8 @@
                 "owner": "yaacov",
                 "repo": "hebocr",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -212,7 +224,8 @@
                 "owner": "cneud",
                 "repo": "ocr-conversion",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "children": [
@@ -229,7 +242,8 @@
                     "owner": "ocropus",
                     "repo": "hocr-tools",
                     "stars": 418
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "UB-Mannheim",
                     "repo": "ocr-fileformat",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -258,8 +273,9 @@
                     "last_commit": "2024-08-12T09:42:24Z",
                     "owner": "kba",
                     "repo": "hocr-spec",
-                    "stars": 75
-                  }
+                    "stars": 76
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "athento",
                     "repo": "hocr-parser",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -289,7 +306,8 @@
                     "owner": "ONB-RD",
                     "repo": "hOCRTools",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -310,8 +328,9 @@
                     "last_commit": "2026-07-08T11:41:03Z",
                     "owner": "altoxml",
                     "repo": "schema",
-                    "stars": 55
-                  }
+                    "stars": 56
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -326,7 +345,8 @@
                     "owner": "cneud",
                     "repo": "alto-tools",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -341,7 +361,8 @@
                     "owner": "altoxml",
                     "repo": "documentation",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -356,7 +377,8 @@
                     "owner": "ironymark",
                     "repo": "AbbyyToAlto",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -378,7 +400,8 @@
                     "owner": "OpenPhilology",
                     "repo": "tei-ocr",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -400,7 +423,8 @@
                     "owner": "PRImA-Research-Lab",
                     "repo": "PAGE-XML",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +439,8 @@
                     "owner": "omni-us",
                     "repo": "pagexml",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -438,11 +463,12 @@
                 "archived": false,
                 "id": 15333471,
                 "language": "Python",
-                "last_commit": "2026-08-22T03:30:49Z",
+                "last_commit": "2026-08-28T22:15:03Z",
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34600
-              }
+                "stars": 34604
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "LeoFCardoso",
                 "repo": "pdf2pdfocr",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -472,7 +499,8 @@
                 "owner": "mauvilsa",
                 "repo": "tesseract-recognize",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -493,8 +521,9 @@
                 "last_commit": "2026-08-25T15:34:02Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76217
-              }
+                "stars": 76237
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "the-paperless-project",
                 "repo": "paperless",
                 "stars": 7912
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -524,7 +554,8 @@
                 "owner": "openpaperwork",
                 "repo": "paperwork",
                 "stars": 2432
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -538,8 +569,9 @@
                 "last_commit": "2026-01-15T10:07:56Z",
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 1984
-              }
+                "stars": 1985
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -550,11 +582,12 @@
                 "archived": false,
                 "id": 77929618,
                 "language": "Java",
-                "last_commit": "2026-08-27T13:07:57Z",
+                "last_commit": "2026-08-28T10:45:48Z",
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -569,7 +602,8 @@
                 "owner": "zdenop",
                 "repo": "qt-box-editor",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -584,7 +618,8 @@
                 "owner": "UB-Mannheim",
                 "repo": "ocr-gt-tools",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -599,7 +634,8 @@
                 "owner": "cisocrgroup",
                 "repo": "PoCoTo",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -613,8 +649,9 @@
                 "last_commit": "2023-05-25T18:58:58Z",
                 "owner": "PRImA-Research-Lab",
                 "repo": "prima-page-viewer",
-                "stars": 36
-              }
+                "stars": 37
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -629,7 +666,8 @@
                 "owner": "mauvilsa",
                 "repo": "nw-page-editor",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -644,7 +682,8 @@
                 "owner": "jbaiter",
                 "repo": "archiscribe",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -659,7 +698,8 @@
                 "owner": "garrison",
                 "repo": "moz-hocr-edit",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -681,7 +721,8 @@
                 "owner": "ZBar",
                 "repo": "ZBar",
                 "stars": 2544
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -696,7 +737,8 @@
                 "owner": "danvk",
                 "repo": "oldnyc",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -711,7 +753,8 @@
                 "owner": "chungkwong",
                 "repo": "MathOCR",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -726,7 +769,8 @@
                 "owner": "0x333333",
                 "repo": "binarizewolfjolion",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -741,7 +785,8 @@
                 "owner": "jbest",
                 "repo": "typeface-corpus",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -763,7 +808,8 @@
                 "owner": "tleyden",
                 "repo": "open-ocr",
                 "stars": 1373
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -778,7 +824,8 @@
                 "owner": "OCR4all",
                 "repo": "OCR4all",
                 "stars": 709
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -793,7 +840,8 @@
                 "owner": "guitarmind",
                 "repo": "tesseract-web-service",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -808,7 +856,8 @@
                 "owner": "OpenPhilology",
                 "repo": "nidaba",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -823,7 +872,8 @@
                 "owner": "hsnr-gamera",
                 "repo": "gamera-3",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -838,7 +888,8 @@
                 "owner": "kba",
                 "repo": "docker-ocropy",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -853,7 +904,8 @@
                 "owner": "subugoe",
                 "repo": "ocr-tools",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -868,7 +920,8 @@
                 "owner": "kba",
                 "repo": "kraken-docker",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -883,7 +936,8 @@
                 "owner": "kba",
                 "repo": "ocrad-docker",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -905,7 +959,8 @@
                 "owner": "impactcentre",
                 "repo": "ocrevalUAtion",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -925,7 +980,8 @@
                     "owner": "eddieantonio",
                     "repo": "ocreval",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -940,7 +996,8 @@
                     "owner": "ryanfb",
                     "repo": "ancientgreekocr-ocr-evaluation-tools",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "repo_info": {
@@ -951,7 +1008,8 @@
                 "owner": "eddieantonio",
                 "repo": "ocreval",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -966,7 +1024,8 @@
                 "owner": "tokee",
                 "repo": "quack",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -981,7 +1040,8 @@
                 "owner": "impactcentre",
                 "repo": "hackathon2014",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -1005,7 +1065,8 @@
                     "owner": "dannnylo",
                     "repo": "tesseract-ocr-crystal",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1027,7 +1088,8 @@
                     "owner": "dannnylo",
                     "repo": "tesseract-ocr-elixir",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1048,8 +1110,9 @@
                     "last_commit": "2026-01-16T16:26:55Z",
                     "owner": "otiai10",
                     "repo": "gosseract",
-                    "stars": 3131
-                  }
+                    "stars": 3132
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1071,7 +1134,8 @@
                     "owner": "rmtheis",
                     "repo": "tess-two",
                     "stars": 3764
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1086,7 +1150,8 @@
                     "owner": "nguyenq",
                     "repo": "tess4j",
                     "stars": 1757
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1108,7 +1173,8 @@
                     "owner": "charlesw",
                     "repo": "tesseract",
                     "stars": 2461
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1130,7 +1196,8 @@
                     "owner": "r1me",
                     "repo": "TTesseractOCR4",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1151,8 +1218,9 @@
                     "last_commit": "2026-01-27T18:59:01Z",
                     "owner": "thiagoalessio",
                     "repo": "tesseract-ocr-for-php",
-                    "stars": 3040
-                  }
+                    "stars": 3041
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1173,8 +1241,9 @@
                     "last_commit": "2026-07-13T19:52:40Z",
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6383
-                  }
+                    "stars": 6384
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1189,7 +1258,8 @@
                     "owner": "sirfz",
                     "repo": "tesserocr",
                     "stars": 2171
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1204,7 +1274,8 @@
                     "owner": "openpaperwork",
                     "repo": "pyocr",
                     "stars": 926
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1219,7 +1290,8 @@
                     "owner": "jwilk-archive",
                     "repo": "ocrodjvu",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1240,8 +1312,9 @@
                     "last_commit": "2026-05-17T04:19:12Z",
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38674
-                  }
+                    "stars": 38676
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1256,7 +1329,8 @@
                     "owner": "antimatter15",
                     "repo": "ocrad.js",
                     "stars": 3517
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1271,7 +1345,8 @@
                     "owner": "zapolnoch",
                     "repo": "node-tesseract-ocr",
                     "stars": 320
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1286,7 +1361,8 @@
                     "owner": "antimatter15",
                     "repo": "gocr.js",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1301,7 +1377,8 @@
                     "owner": "mdelete",
                     "repo": "node-tesseract-native",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1316,7 +1393,8 @@
                     "owner": "naptha",
                     "repo": "ocracy",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1338,7 +1416,8 @@
                     "owner": "dannnylo",
                     "repo": "rtesseract",
                     "stars": 883
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1353,7 +1432,8 @@
                     "owner": "meh",
                     "repo": "ruby-tesseract-ocr",
                     "stars": 636
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1368,7 +1448,8 @@
                     "owner": "suyesh",
                     "repo": "ocr_space",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1390,7 +1471,8 @@
                     "owner": "antimatter15",
                     "repo": "tesseract-rs",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1412,7 +1494,8 @@
                     "owner": "ropensci",
                     "repo": "tesseract",
                     "stars": 251
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1433,8 +1516,9 @@
                     "last_commit": "2020-12-13T08:49:55Z",
                     "owner": "NMAC427",
                     "repo": "SwiftOCR",
-                    "stars": 4632
-                  }
+                    "stars": 4631
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -1449,7 +1533,8 @@
                     "owner": "gali8",
                     "repo": "Tesseract-OCR-iOS",
                     "stars": 4221
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -1476,7 +1561,8 @@
                 "owner": "NVlabs",
                 "repo": "ocrodeg",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1491,7 +1577,8 @@
                 "owner": "benedikt-budig",
                 "repo": "glyph-miner",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -1519,7 +1606,8 @@
                 "owner": "cisocrgroup",
                 "repo": "Resources",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1534,7 +1622,8 @@
                 "owner": "jbaiter",
                 "repo": "archiscribe-corpus",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1549,7 +1638,8 @@
                 "owner": "rescribe",
                 "repo": "carolineminuscule-groundtruth",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1564,7 +1654,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1579,7 +1670,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1594,7 +1686,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1609,7 +1702,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1624,7 +1718,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1639,7 +1734,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1654,7 +1750,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1669,7 +1766,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1684,7 +1782,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1699,7 +1798,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1714,7 +1814,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1729,7 +1830,8 @@
                 "owner": "PRImA-Research-Lab",
                 "repo": "PAGE-XML",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1744,7 +1846,8 @@
                 "owner": "OpenITI",
                 "repo": "OCR_GS_Data",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1759,7 +1862,8 @@
                 "owner": "Anterotesis",
                 "repo": "historical-texts",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1774,7 +1878,8 @@
                 "owner": "Anterotesis",
                 "repo": "historical-texts",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1789,7 +1894,8 @@
                 "owner": "Anterotesis",
                 "repo": "historical-texts",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1804,7 +1910,8 @@
                 "owner": "PedroBarcha",
                 "repo": "old-books-dataset",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1819,7 +1926,8 @@
                 "owner": "chreul",
                 "repo": "OCR_Testdata_EarlyPrintedBooks",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1834,7 +1942,8 @@
                 "owner": "Shreeshrii",
                 "repo": "imagessan",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1849,7 +1958,8 @@
                 "owner": "Early-Modern-OCR",
                 "repo": "TCP-ECCO-texts",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1864,7 +1974,8 @@
                 "owner": "Jean-Baptiste-Camps",
                 "repo": "FROC-MSS",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1879,7 +1990,8 @@
                 "owner": "lascivaroma",
                 "repo": "lexical",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1894,7 +2006,8 @@
                 "owner": "PonteIneptique",
                 "repo": "toebler-ocr",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -1922,7 +2035,8 @@
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
                 "stars": 3465
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -1944,7 +2058,8 @@
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
                 "stars": 3465
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1959,7 +2074,8 @@
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
                 "stars": 3465
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -1974,7 +2090,8 @@
                 "owner": "tesseract-ocr",
                 "repo": "docs",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "group",
@@ -1994,7 +2111,8 @@
                     "owner": "mzucker",
                     "repo": "noteshrink",
                     "stars": 4841
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -2008,8 +2126,9 @@
                     "last_commit": "2023-03-02T13:41:08Z",
                     "owner": "mzucker",
                     "repo": "page_dewarp",
-                    "stars": 1526
-                  }
+                    "stars": 1527
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 },
                 {
                   "node_type": "item",
@@ -2024,7 +2143,8 @@
                     "owner": "mzucker",
                     "repo": "unproject_text",
                     "stars": 150
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ]
             }
@@ -2048,7 +2168,8 @@
                 "owner": "chungkwong",
                 "repo": "MathOCR",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -2063,7 +2184,8 @@
                 "owner": "dannguyen",
                 "repo": "abbyy-finereader-ocr-senate",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             },
             {
               "node_type": "item",
@@ -2078,7 +2200,8 @@
                 "owner": "Halfish",
                 "repo": "cvOCR",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
             }
           ],
           "description": null,
@@ -2107,7 +2230,8 @@
                         "owner": "OpenArabic",
                         "repo": "OCR_GS_Data",
                         "stars": 18
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:06:13.728Z"
                     }
                   ]
                 }
@@ -2136,7 +2260,8 @@
                         "owner": "rakeshvar",
                         "repo": "banti_telugu_ocr",
                         "stars": 52
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:06:13.728Z"
                     }
                   ]
                 }
@@ -2160,7 +2285,8 @@
                     "owner": "TobiasGruening",
                     "repo": "ARU-Net",
                     "stars": 141
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:06:13.728Z"
                 }
               ],
               "description": null,
@@ -2177,7 +2303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:36:17.495Z",
+    "last_updated": "2026-08-29T01:06:13.728Z",
     "original_repository_info": {
       "archived": false,
       "id": 57230505,
