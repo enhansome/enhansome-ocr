@@ -21,7 +21,7 @@
                 "open_issues": 484,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76322,
+                "stars": 76341,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29967,
+                "stars": 29972,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -87,7 +87,7 @@
                 "open_issues": 21,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6336,
+                "stars": 6337,
                 "topics": [
                   "deep-learning",
                   "document-recognition",
@@ -220,11 +220,11 @@
                 "id": 35872353,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T09:03:28Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-04T14:56:28Z",
+                "open_issues": 24,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -704,7 +704,7 @@
                 "open_issues": 97,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34660,
+                "stars": 34670,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -796,7 +796,7 @@
                 "open_issues": 484,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76322,
+                "stars": 76341,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -852,7 +852,7 @@
                 "open_issues": 140,
                 "owner": "openpaperwork",
                 "repo": "paperwork",
-                "stars": 2432,
+                "stars": 2433,
                 "topics": [
                   "dms",
                   "document-management",
@@ -1646,7 +1646,7 @@
                     "open_issues": 32,
                     "owner": "otiai10",
                     "repo": "gosseract",
-                    "stars": 3134,
+                    "stars": 3133,
                     "topics": [
                       "go",
                       "ocr",
@@ -1867,7 +1867,7 @@
                     "open_issues": 18,
                     "owner": "openpaperwork",
                     "repo": "pyocr",
-                    "stars": 926,
+                    "stars": 925,
                     "topics": [
                       "cuneiform",
                       "ocr",
@@ -1928,7 +1928,7 @@
                     "open_issues": 49,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38687,
+                    "stars": 38685,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:02:05.523Z",
+    "last_updated": "2026-09-04T19:47:20.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
