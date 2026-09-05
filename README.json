@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T12:00:26Z",
-                "open_issues": 484,
+                "open_issues": 483,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76341,
+                "stars": 76348,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29972,
+                "stars": 29977,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -84,7 +84,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T12:38:47Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "mindee",
                 "repo": "doctr",
                 "stars": 6337,
@@ -118,7 +118,7 @@
                 "open_issues": 86,
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4631,
+                "stars": 4630,
                 "topics": [
                   "deprecated",
                   "ios",
@@ -701,10 +701,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-01T21:33:13Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34670,
+                "stars": 34677,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -793,10 +793,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T12:00:26Z",
-                "open_issues": 484,
+                "open_issues": 483,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76341,
+                "stars": 76348,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -1107,7 +1107,7 @@
                 "open_issues": 19,
                 "owner": "ZBar",
                 "repo": "ZBar",
-                "stars": 2540,
+                "stars": 2541,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1244,7 +1244,7 @@
                 "open_issues": 26,
                 "owner": "OCR4all",
                 "repo": "OCR4all",
-                "stars": 709,
+                "stars": 710,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1646,7 +1646,7 @@
                     "open_issues": 32,
                     "owner": "otiai10",
                     "repo": "gosseract",
-                    "stars": 3133,
+                    "stars": 3134,
                     "topics": [
                       "go",
                       "ocr",
@@ -1928,7 +1928,7 @@
                     "open_issues": 49,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38685,
+                    "stars": 38686,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -1955,7 +1955,7 @@
                     "open_issues": 28,
                     "owner": "antimatter15",
                     "repo": "ocrad.js",
-                    "stars": 3518,
+                    "stars": 3517,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2185,7 +2185,7 @@
                     "id": 52969562,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-01-26T13:10:53Z",
+                    "last_commit": "2026-09-04T20:40:11Z",
                     "open_issues": 17,
                     "owner": "ropensci",
                     "repo": "tesseract",
@@ -2224,7 +2224,7 @@
                     "open_issues": 86,
                     "owner": "NMAC427",
                     "repo": "SwiftOCR",
-                    "stars": 4631,
+                    "stars": 4630,
                     "topics": [
                       "deprecated",
                       "ios",
@@ -2255,7 +2255,7 @@
                     "open_issues": 120,
                     "owner": "gali8",
                     "repo": "Tesseract-OCR-iOS",
-                    "stars": 4221,
+                    "stars": 4220,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:47:20.586Z",
+    "last_updated": "2026-09-05T19:17:20.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
@@ -3270,7 +3270,7 @@
       "open_issues": 67,
       "owner": "kba",
       "repo": "awesome-ocr",
-      "stars": 3119,
+      "stars": 3120,
       "topics": []
     },
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
