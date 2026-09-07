@@ -21,7 +21,7 @@
                 "open_issues": 483,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76365,
+                "stars": 76386,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29977,
+                "stars": 29980,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -87,7 +87,7 @@
                 "open_issues": 22,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6336,
+                "stars": 6335,
                 "topics": [
                   "deep-learning",
                   "document-recognition",
@@ -221,10 +221,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T14:56:28Z",
-                "open_issues": 25,
+                "open_issues": 23,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -701,10 +701,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-01T21:33:13Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34684,
+                "stars": 34691,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -796,7 +796,7 @@
                 "open_issues": 483,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76365,
+                "stars": 76386,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -1244,7 +1244,7 @@
                 "open_issues": 26,
                 "owner": "OCR4all",
                 "repo": "OCR4all",
-                "stars": 710,
+                "stars": 709,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1757,7 +1757,7 @@
                     "open_issues": 6,
                     "owner": "r1me",
                     "repo": "TTesseractOCR4",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1819,7 +1819,7 @@
                     "open_issues": 21,
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6387,
+                    "stars": 6388,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 49,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38688,
+                    "stars": 38694,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -2285,7 +2285,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2020-05-18T18:30:04Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "ocrodeg",
                 "stars": 165,
@@ -3020,7 +3020,7 @@
                     "open_issues": 21,
                     "owner": "mzucker",
                     "repo": "noteshrink",
-                    "stars": 4841,
+                    "stars": 4843,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:24:47.386Z",
+    "last_updated": "2026-09-07T20:43:25.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
