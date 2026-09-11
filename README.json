@@ -17,11 +17,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T18:38:20Z",
+                "last_commit": "2026-09-11T05:17:27Z",
                 "open_issues": 484,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76433,
+                "stars": 76457,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -87,7 +87,7 @@
                 "open_issues": 22,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6342,
+                "stars": 6344,
                 "topics": [
                   "deep-learning",
                   "document-recognition",
@@ -701,10 +701,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-08T18:26:29Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34710,
+                "stars": 34719,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -792,11 +792,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T18:38:20Z",
+                "last_commit": "2026-09-11T05:17:27Z",
                 "open_issues": 484,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76433,
+                "stars": 76457,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -888,7 +888,7 @@
                 "open_issues": 74,
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 1993,
+                "stars": 1994,
                 "topics": [
                   "c-plus-plus",
                   "gtk",
@@ -1729,7 +1729,7 @@
                     "open_issues": 231,
                     "owner": "charlesw",
                     "repo": "tesseract",
-                    "stars": 2461,
+                    "stars": 2462,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 7,
                     "owner": "thiagoalessio",
                     "repo": "tesseract-ocr-for-php",
-                    "stars": 3041,
+                    "stars": 3042,
                     "topics": [
                       "image-to-text",
                       "ocr",
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:57:55.876Z",
+    "last_updated": "2026-09-11T19:56:00.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
