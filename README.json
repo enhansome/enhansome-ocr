@@ -21,7 +21,7 @@
                 "open_issues": 484,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76592,
+                "stars": 76609,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 531,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30011,
+                "stars": 30016,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -83,11 +83,11 @@
                 "id": 327949189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T12:24:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-21T15:58:05Z",
+                "open_issues": 25,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6358,
+                "stars": 6359,
                 "topics": [
                   "deep-learning",
                   "document-recognition",
@@ -220,11 +220,11 @@
                 "id": 35872353,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T14:56:28Z",
+                "last_commit": "2026-09-21T19:49:36Z",
                 "open_issues": 24,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1070,
+                "stars": 1072,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -511,7 +511,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-07-08T11:41:03Z",
-                    "open_issues": 27,
+                    "open_issues": 28,
                     "owner": "altoxml",
                     "repo": "schema",
                     "stars": 56,
@@ -538,7 +538,7 @@
                     "id": 41920805,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T18:30:00Z",
+                    "last_commit": "2026-09-21T20:59:10Z",
                     "open_issues": 0,
                     "owner": "cneud",
                     "repo": "alto-tools",
@@ -704,7 +704,7 @@
                 "open_issues": 91,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34814,
+                "stars": 34833,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -796,7 +796,7 @@
                 "open_issues": 484,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76592,
+                "stars": 76609,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -825,7 +825,7 @@
                 "open_issues": 177,
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7912,
+                "stars": 7913,
                 "topics": [
                   "archiving",
                   "documents",
@@ -888,7 +888,7 @@
                 "open_issues": 74,
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 1996,
+                "stars": 1997,
                 "topics": [
                   "c-plus-plus",
                   "gtk",
@@ -915,7 +915,7 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-19T19:06:22Z",
+                "last_commit": "2026-09-21T14:01:27Z",
                 "open_issues": 38,
                 "owner": "OCR4all",
                 "repo": "LAREX",
@@ -1107,7 +1107,7 @@
                 "open_issues": 19,
                 "owner": "ZBar",
                 "repo": "ZBar",
-                "stars": 2539,
+                "stars": 2540,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 53,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38719,
+                    "stars": 38728,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -3020,7 +3020,7 @@
                     "open_issues": 21,
                     "owner": "mzucker",
                     "repo": "noteshrink",
-                    "stars": 4844,
+                    "stars": 4843,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:39:22.121Z",
+    "last_updated": "2026-09-21T21:11:33.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
