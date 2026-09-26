@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T05:17:27Z",
-                "open_issues": 484,
+                "open_issues": 487,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76678,
+                "stars": 76699,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 531,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30028,
+                "stars": 30034,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -87,7 +87,7 @@
                 "open_issues": 22,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6362,
+                "stars": 6364,
                 "topics": [
                   "deep-learning",
                   "document-recognition",
@@ -224,7 +224,7 @@
                 "open_issues": 25,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -704,7 +704,7 @@
                 "open_issues": 94,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34876,
+                "stars": 34878,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -793,10 +793,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T05:17:27Z",
-                "open_issues": 484,
+                "open_issues": 487,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76678,
+                "stars": 76699,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -915,7 +915,7 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-22T08:56:36Z",
+                "last_commit": "2026-09-26T18:39:43Z",
                 "open_issues": 38,
                 "owner": "OCR4all",
                 "repo": "LAREX",
@@ -1149,7 +1149,7 @@
                 "open_issues": 3,
                 "owner": "chungkwong",
                 "repo": "MathOCR",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "latex",
                   "optical-character-recognition",
@@ -3092,7 +3092,7 @@
                 "open_issues": 3,
                 "owner": "chungkwong",
                 "repo": "MathOCR",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "latex",
                   "optical-character-recognition",
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:38:53.777Z",
+    "last_updated": "2026-09-26T20:04:06.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
