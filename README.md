@@ -1,6 +1,6 @@
 # Awesome OCR with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,417 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,849 | 🐛 106 | 📅 2026-09-02
 
 This list contains links to great software tools and libraries and literature
 related to [Optical Character Recognition
@@ -60,10 +60,10 @@ Contributions are welcome, as is feedback.
 
 ### OCR engines
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,760 | 🐛 489 | 🌐 C++ | 📅 2026-09-28 - The definitive Open Source OCR engine `Apache 2.0`
+* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,774 | 🐛 490 | 🌐 C++ | 📅 2026-09-28 - The definitive Open Source OCR engine `Apache 2.0`
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,043 | 🐛 532 | 🌐 Python | 📅 2025-12-05 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
-* [doctr](https://github.com/mindee/doctr) ⭐ 6,367 | 🐛 21 | 🌐 Python | 📅 2026-09-29 - A seamless & high-performing OCR library powered by Deep Learning
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,628 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
+* [doctr](https://github.com/mindee/doctr) ⭐ 6,369 | 🐛 21 | 🌐 Python | 📅 2026-09-29 - A seamless & high-performing OCR library powered by Deep Learning
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,627 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
 * [ocropus](https://github.com/tmbdev/ocropy) ⚠️ Archived - OCR engine based on LSTM, `Apache 2.0`
 * [Calamari](https://github.com/Calamari-OCR/calamari) ⭐ 1,199 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - OCR Engine based on OCRopy and Kraken
 * [attention-ocr](https://github.com/emedvedev/attention-ocr) ⭐ 1,086 | 🐛 27 | 🌐 Python | 📅 2023-10-20 - OCR engine using visual attention mechanisms
@@ -120,14 +120,14 @@ Contributions are welcome, as is feedback.
 
 ### OCR CLI
 
-* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,903 | 🐛 61 | 🌐 Python | 📅 2026-09-29 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-* [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) ⭐ 305 | 🐛 2 | 🌐 Python | 📅 2026-05-24 - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,910 | 🐛 61 | 🌐 Python | 📅 2026-09-29 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) ⭐ 306 | 🐛 2 | 🌐 Python | 📅 2026-05-24 - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
 * [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2025-03-31 - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
 
 ### OCR GUI
 
-* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 76,760 | 🐛 489 | 🌐 C++ | 📅 2026-09-28 editor
+* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 76,774 | 🐛 490 | 🌐 C++ | 📅 2026-09-28 editor
 * [Paperless](https://github.com/danielquinn/paperless) ⚠️ Archived - Scan, index, and archive all of your paper documents.
 * [Paperwork](https://github.com/openpaperwork/paperwork) ⚠️ Archived - Using scanners and OCR to grep paper documents the easy way.
 * [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 1,997 | 🐛 74 | 🌐 C++ | 📅 2026-09-29 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
@@ -209,14 +209,14 @@ Contributions are welcome, as is feedback.
 
 #### Python
 
-* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,393 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - A Python wrapper for Google Tesseract.
+* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,394 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - A Python wrapper for Google Tesseract.
 * [tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,174 | 🐛 46 | 🌐 Python | 📅 2026-08-04 - A Python wrapper for the tesseract-ocr API
 * [pyocr](https://github.com/jflesch/pyocr) ⚠️ Archived - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) ⚠️ Archived - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
 
 #### Javascript
 
-* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,750 | 🐛 55 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
+* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,749 | 🐛 56 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,515 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - Javascript port (emscripten) of ocrad
 * [node-tesseract-ocr](https://github.com/zapolnoch/node-tesseract-ocr) ⭐ 320 | 🐛 24 | 🌐 JavaScript | 📅 2023-07-13 - A simple wrapper for the Tesseract OCR package.
 * [gocr.js](https://github.com/antimatter15/gocr.js) ⭐ 100 | 🐛 3 | 🌐 C | 📅 2013-12-31 - Javascript port (emscripten) of gocr
@@ -240,7 +240,7 @@ Contributions are welcome, as is feedback.
 
 #### Swift
 
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,628 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,627 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.
 * [Tesseract OCR iOS](https://github.com/gali8/Tesseract-OCR-iOS) ⭐ 4,216 | 🐛 120 | 🌐 C | 📅 2021-05-03 - Swift and Objective-C wrapper for Tesseract OCR.
 
 ### OCR training tools
@@ -395,4 +395,4 @@ Contributions are welcome, as is feedback.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
