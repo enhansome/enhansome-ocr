@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T07:40:38Z",
-                "open_issues": 490,
+                "open_issues": 492,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76774,
+                "stars": 76787,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 532,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30043,
+                "stars": 30046,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -83,7 +83,7 @@
                 "id": 327949189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T12:28:50Z",
+                "last_commit": "2026-10-01T09:21:59Z",
                 "open_issues": 21,
                 "owner": "mindee",
                 "repo": "doctr",
@@ -149,7 +149,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3464,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -191,7 +191,7 @@
                 "open_issues": 27,
                 "owner": "emedvedev",
                 "repo": "attention-ocr",
-                "stars": 1086,
+                "stars": 1087,
                 "topics": [
                   "cnn",
                   "google-cloud",
@@ -224,7 +224,7 @@
                 "open_issues": 27,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1076,
+                "stars": 1079,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -704,7 +704,7 @@
                 "open_issues": 61,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34910,
+                "stars": 34917,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -793,10 +793,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T07:40:38Z",
-                "open_issues": 490,
+                "open_issues": 492,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76774,
+                "stars": 76787,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -852,7 +852,7 @@
                 "open_issues": 140,
                 "owner": "openpaperwork",
                 "repo": "paperwork",
-                "stars": 2433,
+                "stars": 2434,
                 "topics": [
                   "dms",
                   "document-management",
@@ -1819,7 +1819,7 @@
                     "open_issues": 21,
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6394,
+                    "stars": 6393,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1840,7 +1840,7 @@
                     "open_issues": 46,
                     "owner": "sirfz",
                     "repo": "tesserocr",
-                    "stars": 2174,
+                    "stars": 2175,
                     "topics": [
                       "cython",
                       "ocr",
@@ -1928,7 +1928,7 @@
                     "open_issues": 56,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38749,
+                    "stars": 38752,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -2924,7 +2924,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3464,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2952,7 +2952,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3464,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2973,7 +2973,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3464,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:30:11.195Z",
+    "last_updated": "2026-10-01T21:55:59.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
@@ -3270,7 +3270,7 @@
       "open_issues": 72,
       "owner": "kba",
       "repo": "awesome-ocr",
-      "stars": 3126,
+      "stars": 3125,
       "topics": []
     },
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
