@@ -21,7 +21,7 @@
                 "open_issues": 492,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76806,
+                "stars": 76810,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -350,7 +350,7 @@
             {
               "node_type": "item",
               "title": "ocr-conversion-scripts",
-              "description": null,
+              "description": "cneud/ocr-conversion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
                 "open_issues": 61,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 34918,
+                "stars": 34920,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -796,7 +796,7 @@
                 "open_issues": 492,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 76806,
+                "stars": 76810,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -2911,7 +2911,7 @@
             {
               "node_type": "item",
               "title": "Ocropus Wiki: Publications",
-              "description": null,
+              "description": "ocropus-archive/DUP-ocropy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2939,7 +2939,7 @@
             {
               "node_type": "item",
               "title": "Ocropus Wiki: Compute errors and confusions",
-              "description": "(2016) @zuphilip",
+              "description": "@zuphilip",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2960,7 +2960,7 @@
             {
               "node_type": "item",
               "title": "Ocropus Wiki: Working with Ground Truth",
-              "description": "(2016) @zuphilip",
+              "description": "@zuphilip",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2981,7 +2981,7 @@
             {
               "node_type": "item",
               "title": "Tesseract Blends Old and New OCR Technology",
-              "description": "(2016) @theraysmith",
+              "description": "@theraysmith",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3002,12 +3002,12 @@
             {
               "node_type": "group",
               "title": "\"Needlessly complex\" blog",
-              "description": "(2016) @mzucker. Several image processing how-tos (Python based), particularly:",
+              "description": "@mzucker. Several image processing how-tos (Python based), particularly:",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Compressing and enhancing hand-written notes",
-                  "description": "(code)",
+                  "description": "mzucker/noteshrink",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3028,7 +3028,7 @@
                 {
                   "node_type": "item",
                   "title": "Page dewarping",
-                  "description": "(code)",
+                  "description": "mzucker/page_dewarp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3041,7 +3041,7 @@
                     "open_issues": 22,
                     "owner": "mzucker",
                     "repo": "page_dewarp",
-                    "stars": 1529,
+                    "stars": 1530,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3049,7 +3049,7 @@
                 {
                   "node_type": "item",
                   "title": "Unprojecting text with ellipses",
-                  "description": "(code)",
+                  "description": "mzucker/unproject_text",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3155,7 +3155,7 @@
                 {
                   "node_type": "group",
                   "title": "Important New Developments in Arabographic Optical Character Recognition (OCR)",
-                  "description": "(2016) Romanov, Miller, Savant, Kiessling",
+                  "description": "Romanov, Miller, Savant, Kiessling",
                   "children": [
                     {
                       "node_type": "item",
@@ -3190,7 +3190,7 @@
                 {
                   "node_type": "group",
                   "title": "Telugu OCR Framework using Deep Learning",
-                  "description": "(2015/2017) Achanta, Hastie",
+                  "description": "Achanta, Hastie",
                   "children": [
                     {
                       "node_type": "item",
@@ -3225,7 +3225,7 @@
                 {
                   "node_type": "item",
                   "title": "A Two-Stage Method for Text Line Detection in Historical Documents",
-                  "description": "(2018) Grüning, Leifert, Strauß, Labahn. Code available at https://github.com/TobiasGruening/ARU-Net",
+                  "description": "Grüning, Leifert, Strauß, Labahn. Code available at https://github.com/TobiasGruening/ARU-Net",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:43.331Z",
+    "last_updated": "2026-10-03T04:58:51.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
