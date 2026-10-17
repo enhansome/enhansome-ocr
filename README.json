@@ -21,7 +21,7 @@
                 "open_issues": 502,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77028,
+                "stars": 77042,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 533,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30076,
+                "stars": 30080,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -84,10 +84,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T11:33:15Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6390,
+                "stars": 6391,
                 "topics": [
                   "deep-learning",
                   "document-recognition",
@@ -177,6 +177,37 @@
             },
             {
               "node_type": "item",
+              "title": "kraken",
+              "description": "Ocropus fork with sane defaults",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OCR engine for all the languages",
+                "homepage": "http://kraken.re",
+                "id": 35872353,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-12T08:53:30Z",
+                "open_issues": 24,
+                "owner": "mittagessen",
+                "repo": "kraken",
+                "stars": 1085,
+                "topics": [
+                  "alto-xml",
+                  "handwritten-text-recognition",
+                  "hocr",
+                  "htr",
+                  "layout-analysis",
+                  "neural-networks",
+                  "ocr",
+                  "optical-character-recognition",
+                  "page-xml"
+                ]
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
+            },
+            {
+              "node_type": "item",
               "title": "attention-ocr",
               "description": "OCR engine using visual attention mechanisms",
               "children": [],
@@ -204,37 +235,6 @@
                   "ocr-recognition",
                   "seq2seq",
                   "tensorflow"
-                ]
-              },
-              "first_seen": "2026-08-29T01:06:13.728Z"
-            },
-            {
-              "node_type": "item",
-              "title": "kraken",
-              "description": "Ocropus fork with sane defaults",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "OCR engine for all the languages",
-                "homepage": "http://kraken.re",
-                "id": 35872353,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-12T08:53:30Z",
-                "open_issues": 24,
-                "owner": "mittagessen",
-                "repo": "kraken",
-                "stars": 1084,
-                "topics": [
-                  "alto-xml",
-                  "handwritten-text-recognition",
-                  "hocr",
-                  "htr",
-                  "layout-analysis",
-                  "neural-networks",
-                  "ocr",
-                  "optical-character-recognition",
-                  "page-xml"
                 ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -701,10 +701,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-12T07:50:51Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35055,
+                "stars": 35067,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -796,7 +796,7 @@
                 "open_issues": 502,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77028,
+                "stars": 77042,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -915,7 +915,7 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-16T11:27:32Z",
+                "last_commit": "2026-10-17T11:20:37Z",
                 "open_issues": 38,
                 "owner": "OCR4all",
                 "repo": "LAREX",
@@ -1701,7 +1701,7 @@
                     "open_issues": 26,
                     "owner": "nguyenq",
                     "repo": "tess4j",
-                    "stars": 1758,
+                    "stars": 1759,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 57,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38766,
+                    "stars": 38767,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:01:07.728Z",
+    "last_updated": "2026-10-17T19:37:29.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
@@ -3267,7 +3267,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-06T21:02:05Z",
-      "open_issues": 74,
+      "open_issues": 76,
       "owner": "kba",
       "repo": "awesome-ocr",
       "stars": 3124,
