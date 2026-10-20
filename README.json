@@ -17,11 +17,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T18:24:42Z",
+                "last_commit": "2026-10-20T11:26:02Z",
                 "open_issues": 494,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77073,
+                "stars": 77084,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 533,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30089,
+                "stars": 30093,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -704,7 +704,7 @@
                 "open_issues": 66,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35098,
+                "stars": 35104,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -792,11 +792,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T18:24:42Z",
+                "last_commit": "2026-10-20T11:26:02Z",
                 "open_issues": 494,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77073,
+                "stars": 77084,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -825,7 +825,7 @@
                 "open_issues": 177,
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7911,
+                "stars": 7910,
                 "topics": [
                   "archiving",
                   "documents",
@@ -852,7 +852,7 @@
                 "open_issues": 140,
                 "owner": "openpaperwork",
                 "repo": "paperwork",
-                "stars": 2433,
+                "stars": 2434,
                 "topics": [
                   "dms",
                   "document-management",
@@ -885,7 +885,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-29T06:55:44Z",
-                "open_issues": 75,
+                "open_issues": 78,
                 "owner": "manisandro",
                 "repo": "gImageReader",
                 "stars": 2007,
@@ -915,7 +915,7 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-19T13:45:57Z",
+                "last_commit": "2026-10-20T14:03:23Z",
                 "open_issues": 38,
                 "owner": "OCR4all",
                 "repo": "LAREX",
@@ -1680,7 +1680,7 @@
                     "open_issues": 0,
                     "owner": "rmtheis",
                     "repo": "tess-two",
-                    "stars": 3759,
+                    "stars": 3758,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 57,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38773,
+                    "stars": 38777,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:39:50.007Z",
+    "last_updated": "2026-10-20T20:47:15.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
