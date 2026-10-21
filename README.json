@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:26:02Z",
-                "open_issues": 494,
+                "open_issues": 496,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77084,
+                "stars": 77098,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 533,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30093,
+                "stars": 30092,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -83,7 +83,7 @@
                 "id": 327949189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T09:18:05Z",
+                "last_commit": "2026-10-21T07:56:25Z",
                 "open_issues": 22,
                 "owner": "mindee",
                 "repo": "doctr",
@@ -701,10 +701,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-12T07:50:51Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35104,
+                "stars": 35114,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -793,10 +793,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:26:02Z",
-                "open_issues": 494,
+                "open_issues": 496,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77084,
+                "stars": 77098,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -915,7 +915,7 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-20T14:03:23Z",
+                "last_commit": "2026-10-21T13:08:26Z",
                 "open_issues": 38,
                 "owner": "OCR4all",
                 "repo": "LAREX",
@@ -1729,7 +1729,7 @@
                     "open_issues": 232,
                     "owner": "charlesw",
                     "repo": "tesseract",
-                    "stars": 2461,
+                    "stars": 2462,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1819,7 +1819,7 @@
                     "open_issues": 21,
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6395,
+                    "stars": 6396,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1925,10 +1925,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-17T04:19:12Z",
-                    "open_issues": 57,
+                    "open_issues": 59,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38777,
+                    "stars": 38781,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -2255,7 +2255,7 @@
                     "open_issues": 120,
                     "owner": "gali8",
                     "repo": "Tesseract-OCR-iOS",
-                    "stars": 4211,
+                    "stars": 4210,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3258,7 +3258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:47:15.134Z",
+    "last_updated": "2026-10-21T20:48:37.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
