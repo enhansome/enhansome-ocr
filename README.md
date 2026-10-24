@@ -1,6 +1,6 @@
 # Awesome OCR with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,601 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,088 | 🐛 105 | 📅 2026-09-02
 
 This list contains links to great software tools and libraries and literature
 related to [Optical Character Recognition
@@ -60,9 +60,9 @@ Contributions are welcome, as is feedback.
 
 ### OCR engines
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,138 | 🐛 493 | 🌐 C++ | 📅 2026-10-23 - The definitive Open Source OCR engine `Apache 2.0`
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,097 | 🐛 533 | 🌐 Python | 📅 2025-12-05 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
-* [doctr](https://github.com/mindee/doctr) ⭐ 6,392 | 🐛 20 | 🌐 Python | 📅 2026-10-23 - A seamless & high-performing OCR library powered by Deep Learning
+* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,150 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 - The definitive Open Source OCR engine `Apache 2.0`
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,098 | 🐛 533 | 🌐 Python | 📅 2025-12-05 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
+* [doctr](https://github.com/mindee/doctr) ⭐ 6,393 | 🐛 22 | 🌐 Python | 📅 2026-10-23 - A seamless & high-performing OCR library powered by Deep Learning
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,625 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
 * [ocropus](https://github.com/tmbdev/ocropy) ⚠️ Archived - OCR engine based on LSTM, `Apache 2.0`
 * [Calamari](https://github.com/Calamari-OCR/calamari) ⭐ 1,200 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - OCR Engine based on OCRopy and Kraken
@@ -114,23 +114,23 @@ Contributions are welcome, as is feedback.
 
 #### PAGE XML
 
-* [PAGE-XML Schema](https://github.com/PRImA-Research-Lab/PAGE-XML/tree/master/pagecontent) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16 - XML schema of the PAGE XML format along with documentation and examples
+* [PAGE-XML Schema](https://github.com/PRImA-Research-Lab/PAGE-XML/tree/master/pagecontent) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16 - XML schema of the PAGE XML format along with documentation and examples
 * [py-pagexml](https://github.com/omni-us/pagexml) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2025-04-25 - Python library for handling PAGE XML and OPF files.
 * [omni:us Pages Format (OPF)](https://omni-us.github.io/pageformat/pagecontent_omnius.html) - XML schema very similar to PAGE XML that has some additional features.
 
 ### OCR CLI
 
-* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 35,132 | 🐛 68 | 🌐 Python | 📅 2026-10-23 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 35,138 | 🐛 67 | 🌐 Python | 📅 2026-10-23 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) ⭐ 306 | 🐛 2 | 🌐 Python | 📅 2026-05-24 - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
 * [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2025-03-31 - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
 
 ### OCR GUI
 
-* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 77,138 | 🐛 493 | 🌐 C++ | 📅 2026-10-23 editor
+* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 77,150 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 editor
 * [Paperless](https://github.com/danielquinn/paperless) ⚠️ Archived - Scan, index, and archive all of your paper documents.
 * [Paperwork](https://github.com/openpaperwork/paperwork) ⚠️ Archived - Using scanners and OCR to grep paper documents the easy way.
-* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,009 | 🐛 78 | 🌐 C++ | 📅 2026-09-29 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
+* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,010 | 🐛 78 | 🌐 C++ | 📅 2026-09-29 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
 * [LAREX](https://github.com/chreul/larex) ⭐ 201 | 🐛 38 | 🌐 Java | 📅 2026-10-21 - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.
 * [qt-box-editor](https://github.com/zdenop/qt-box-editor) ⭐ 176 | 🐛 3 | 🌐 C++ | 📅 2024-10-14 - QT4 editor of tesseract-ocr box files.
 * [ocr-gt-tools](https://github.com/UB-Mannheim/ocr-gt-tools) ⭐ 54 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-02 - Client-Server application for editing OCR ground truth.
@@ -193,7 +193,7 @@ Contributions are welcome, as is feedback.
 #### Java
 
 * [tess-two](https://github.com/rmtheis/tess-two) ⚠️ Archived - Tools for compiling Tesseract on Android and Java API.
-* [Tess4J](https://github.com/nguyenq/tess4j) ⭐ 1,758 | 🐛 26 | 🌐 Java | 📅 2026-07-28 - Java Native Access bindings to Tesseract.
+* [Tess4J](https://github.com/nguyenq/tess4j) ⭐ 1,757 | 🐛 26 | 🌐 Java | 📅 2026-07-28 - Java Native Access bindings to Tesseract.
 
 #### .Net
 
@@ -205,18 +205,18 @@ Contributions are welcome, as is feedback.
 
 #### PHP
 
-* [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php) ⭐ 3,044 | 🐛 7 | 🌐 PHP | 📅 2026-01-27 - Tesseract PHP bindings.
+* [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php) ⭐ 3,042 | 🐛 7 | 🌐 PHP | 📅 2026-01-27 - Tesseract PHP bindings.
 
 #### Python
 
-* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,395 | 🐛 21 | 🌐 Python | 📅 2026-10-19 - A Python wrapper for Google Tesseract.
+* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,396 | 🐛 21 | 🌐 Python | 📅 2026-10-19 - A Python wrapper for Google Tesseract.
 * [tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,178 | 🐛 45 | 🌐 Python | 📅 2026-10-22 - A Python wrapper for the tesseract-ocr API
 * [pyocr](https://github.com/jflesch/pyocr) ⚠️ Archived - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) ⚠️ Archived - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
 
 #### Javascript
 
-* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,789 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
+* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,790 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,515 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - Javascript port (emscripten) of ocrad
 * [node-tesseract-ocr](https://github.com/zapolnoch/node-tesseract-ocr) ⭐ 320 | 🐛 24 | 🌐 JavaScript | 📅 2023-07-13 - A simple wrapper for the Tesseract OCR package.
 * [gocr.js](https://github.com/antimatter15/gocr.js) ⭐ 100 | 🐛 3 | 🌐 C | 📅 2013-12-31 - Javascript port (emscripten) of gocr
@@ -257,18 +257,18 @@ Contributions are welcome, as is feedback.
 
 - [Rescribe](https://github.com/rescribe/carolineminuscule-groundtruth) ⭐ 11 | 🐛 0 | 📅 2022-10-06 - Transcriptions of Caroline Minuscule Manuscripts `PDM 1.0`
 
-* [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) - 150 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> of three medieval manuscripts `CC-BY-NC 3.0`
-* [IMPACT-BHL](http://www.bhle.eu/en/results-of-the-collaboration-of-bhl-europe-and-impact) - 2,418 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the Biodiversity Heritage Library, [XML@GitHub](https://github.com/impactcentre/groundtruth-bhl) ⭐ 2 | 🐛 0 | 📅 2026-08-10 `CC-BY 3.0`
-* [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=BL\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 294 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the British Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `PDM 1.0`
-* [IMPACT-BNE](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=BNE\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 215 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Spain, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required, [XML@GitHub](https://github.com/impactcentre/groundtruth-spa) ⭐ 2 | 🐛 0 | 📅 2013-04-15 `CC-BY-NC-SA 4.0`
-* [IMPACT-BNF](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=BNE\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 151 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of France, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
-* [IMPACT-KB](http://lab.kb.nl/dataset/ground-truth-impact-project#access) - 142 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of the Netherlands `CC-BY 4.0`
-* [IMPACT-NKC](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NKC\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 187 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the Czech National Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
-* [IMPACT-NLB](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NLB\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 19 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Bulgaria, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-ND 4.0`
-* [IMPACT-NUK](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NUK\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 209 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Slovenia, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
-* [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) - 478 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from four Polish digital libraries, [XML@GitHub](https://github.com/impactcentre/groundtruth-pol) ⭐ 3 | 🐛 0 | 📅 2019-01-20 `CC-BY 3.0`
-* [OCR-D](http://ocr-d.de/daten) - 180 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> of German historical prints from [OCR-D](http://ocr-d.de/) `CC-BY-SA 4.0`
-* [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) - 528 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 71 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/), (free) [registration](http://www.primaresearch.org/register) required `PDM 1.0`
+* [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) - 150 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> of three medieval manuscripts `CC-BY-NC 3.0`
+* [IMPACT-BHL](http://www.bhle.eu/en/results-of-the-collaboration-of-bhl-europe-and-impact) - 2,418 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the Biodiversity Heritage Library, [XML@GitHub](https://github.com/impactcentre/groundtruth-bhl) ⭐ 2 | 🐛 0 | 📅 2026-08-10 `CC-BY 3.0`
+* [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=BL\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 294 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the British Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `PDM 1.0`
+* [IMPACT-BNE](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=BNE\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 215 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Spain, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required, [XML@GitHub](https://github.com/impactcentre/groundtruth-spa) ⭐ 2 | 🐛 0 | 📅 2013-04-15 `CC-BY-NC-SA 4.0`
+* [IMPACT-BNF](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=BNE\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 151 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of France, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
+* [IMPACT-KB](http://lab.kb.nl/dataset/ground-truth-impact-project#access) - 142 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of the Netherlands `CC-BY 4.0`
+* [IMPACT-NKC](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NKC\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 187 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the Czech National Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
+* [IMPACT-NLB](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NLB\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 19 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Bulgaria, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-ND 4.0`
+* [IMPACT-NUK](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NUK\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 209 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Slovenia, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
+* [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) - 478 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from four Polish digital libraries, [XML@GitHub](https://github.com/impactcentre/groundtruth-pol) ⭐ 3 | 🐛 0 | 📅 2019-01-20 `CC-BY 3.0`
+* [OCR-D](http://ocr-d.de/daten) - 180 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> of German historical prints from [OCR-D](http://ocr-d.de/) `CC-BY-SA 4.0`
+* [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) - 528 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/), (free) [registration](http://www.primaresearch.org/register) required `PDM 1.0`
 * [OCR\_GS\_Data](https://github.com/OpenITI/OCR_GS_Data) ⭐ 22 | 🐛 0 | 📅 2022-12-31 - Double-checked Arabic Gold Standard from [OpenITI](https://github.com/OpenITI)
 * [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) ⭐ 19 | 🐛 1 | 🌐 Shell | 📅 2021-03-24 - 25,363 EEBO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-eebo/) `PDM 1.0`
 * [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) ⭐ 19 | 🐛 1 | 🌐 Shell | 📅 2021-03-24 - 2,188 ECCO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-ecco/) `PDM 1.0`
@@ -395,4 +395,4 @@ Contributions are welcome, as is feedback.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
