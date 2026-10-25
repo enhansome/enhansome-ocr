@@ -1,6 +1,6 @@
 # Awesome OCR with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,088 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,577 | 🐛 105 | 📅 2026-09-02
 
 This list contains links to great software tools and libraries and literature
 related to [Optical Character Recognition
@@ -60,10 +60,10 @@ Contributions are welcome, as is feedback.
 
 ### OCR engines
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,150 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 - The definitive Open Source OCR engine `Apache 2.0`
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,098 | 🐛 533 | 🌐 Python | 📅 2025-12-05 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
-* [doctr](https://github.com/mindee/doctr) ⭐ 6,393 | 🐛 22 | 🌐 Python | 📅 2026-10-23 - A seamless & high-performing OCR library powered by Deep Learning
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,625 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
+* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,164 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 - The definitive Open Source OCR engine `Apache 2.0`
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,102 | 🐛 534 | 🌐 Python | 📅 2025-12-05 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
+* [doctr](https://github.com/mindee/doctr) ⭐ 6,394 | 🐛 22 | 🌐 Python | 📅 2026-10-23 - A seamless & high-performing OCR library powered by Deep Learning
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,626 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
 * [ocropus](https://github.com/tmbdev/ocropy) ⚠️ Archived - OCR engine based on LSTM, `Apache 2.0`
 * [Calamari](https://github.com/Calamari-OCR/calamari) ⭐ 1,200 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - OCR Engine based on OCRopy and Kraken
 * [kraken](https://github.com/mittagessen/kraken) ⭐ 1,089 | 🐛 26 | 🌐 Python | 📅 2026-10-12 - Ocropus fork with sane defaults
@@ -120,17 +120,17 @@ Contributions are welcome, as is feedback.
 
 ### OCR CLI
 
-* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 35,138 | 🐛 67 | 🌐 Python | 📅 2026-10-23 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 35,149 | 🐛 67 | 🌐 Python | 📅 2026-10-25 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) ⭐ 306 | 🐛 2 | 🌐 Python | 📅 2026-05-24 - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
 * [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2025-03-31 - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
 
 ### OCR GUI
 
-* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 77,150 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 editor
+* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 77,164 | 🐛 490 | 🌐 C++ | 📅 2026-10-24 editor
 * [Paperless](https://github.com/danielquinn/paperless) ⚠️ Archived - Scan, index, and archive all of your paper documents.
 * [Paperwork](https://github.com/openpaperwork/paperwork) ⚠️ Archived - Using scanners and OCR to grep paper documents the easy way.
-* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,010 | 🐛 78 | 🌐 C++ | 📅 2026-09-29 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
+* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,010 | 🐛 66 | 🌐 C++ | 📅 2026-10-25 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
 * [LAREX](https://github.com/chreul/larex) ⭐ 201 | 🐛 38 | 🌐 Java | 📅 2026-10-21 - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.
 * [qt-box-editor](https://github.com/zdenop/qt-box-editor) ⭐ 176 | 🐛 3 | 🌐 C++ | 📅 2024-10-14 - QT4 editor of tesseract-ocr box files.
 * [ocr-gt-tools](https://github.com/UB-Mannheim/ocr-gt-tools) ⭐ 54 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-02 - Client-Server application for editing OCR ground truth.
@@ -209,14 +209,14 @@ Contributions are welcome, as is feedback.
 
 #### Python
 
-* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,396 | 🐛 21 | 🌐 Python | 📅 2026-10-19 - A Python wrapper for Google Tesseract.
-* [tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,178 | 🐛 45 | 🌐 Python | 📅 2026-10-22 - A Python wrapper for the tesseract-ocr API
+* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,397 | 🐛 21 | 🌐 Python | 📅 2026-10-19 - A Python wrapper for Google Tesseract.
+* [tesserocr](https://github.com/sirfz/tesserocr) ⭐ 2,179 | 🐛 45 | 🌐 Python | 📅 2026-10-22 - A Python wrapper for the tesseract-ocr API
 * [pyocr](https://github.com/jflesch/pyocr) ⚠️ Archived - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) ⚠️ Archived - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
 
 #### Javascript
 
-* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,790 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
+* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,794 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,515 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - Javascript port (emscripten) of ocrad
 * [node-tesseract-ocr](https://github.com/zapolnoch/node-tesseract-ocr) ⭐ 320 | 🐛 24 | 🌐 JavaScript | 📅 2023-07-13 - A simple wrapper for the Tesseract OCR package.
 * [gocr.js](https://github.com/antimatter15/gocr.js) ⭐ 100 | 🐛 3 | 🌐 C | 📅 2013-12-31 - Javascript port (emscripten) of gocr
@@ -240,7 +240,7 @@ Contributions are welcome, as is feedback.
 
 #### Swift
 
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,625 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,626 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.
 * [Tesseract OCR iOS](https://github.com/gali8/Tesseract-OCR-iOS) ⭐ 4,210 | 🐛 120 | 🌐 C | 📅 2021-05-03 - Swift and Objective-C wrapper for Tesseract OCR.
 
 ### OCR training tools
@@ -266,7 +266,7 @@ Contributions are welcome, as is feedback.
 * [IMPACT-NKC](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NKC\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 187 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the Czech National Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
 * [IMPACT-NLB](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NLB\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 19 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Bulgaria, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-ND 4.0`
 * [IMPACT-NUK](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=\&search-filter-institution=NUK\&search-filter-language=\&search-filter-script=\&search-filter-year=) - 209 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from the National Library of Slovenia, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
-* [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) - 478 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from four Polish digital libraries, [XML@GitHub](https://github.com/impactcentre/groundtruth-pol) ⭐ 3 | 🐛 0 | 📅 2019-01-20 `CC-BY 3.0`
+* [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) - 478 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> from four Polish digital libraries, [XML@GitHub](https://github.com/impactcentre/groundtruth-pol) ⭐ 4 | 🐛 0 | 📅 2019-01-20 `CC-BY 3.0`
 * [OCR-D](http://ocr-d.de/daten) - 180 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> of German historical prints from [OCR-D](http://ocr-d.de/) `CC-BY-SA 4.0`
 * [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) - 528 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) ⭐ 72 | 🐛 11 | 🌐 XSLT | 📅 2026-01-16</sup> historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/), (free) [registration](http://www.primaresearch.org/register) required `PDM 1.0`
 * [OCR\_GS\_Data](https://github.com/OpenITI/OCR_GS_Data) ⭐ 22 | 🐛 0 | 📅 2022-12-31 - Double-checked Arabic Gold Standard from [OpenITI](https://github.com/OpenITI)
@@ -395,4 +395,4 @@ Contributions are welcome, as is feedback.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
