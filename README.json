@@ -21,7 +21,7 @@
                 "open_issues": 490,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77164,
+                "stars": 77172,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30102,
+                "stars": 30105,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -83,11 +83,11 @@
                 "id": 327949189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T07:08:35Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-26T14:00:13Z",
+                "open_issues": 19,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6394,
+                "stars": 6395,
                 "topics": [
                   "deep-learning",
                   "document-parsing",
@@ -119,7 +119,7 @@
                 "open_issues": 86,
                 "owner": "NMAC427",
                 "repo": "SwiftOCR",
-                "stars": 4626,
+                "stars": 4627,
                 "topics": [
                   "deprecated",
                   "ios",
@@ -150,7 +150,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3461,
+                "stars": 3462,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -702,10 +702,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-25T07:47:57Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35149,
+                "stars": 35157,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -797,7 +797,7 @@
                 "open_issues": 490,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77164,
+                "stars": 77172,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -885,11 +885,11 @@
                 "id": 16681717,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T18:14:14Z",
+                "last_commit": "2026-10-26T01:20:29Z",
                 "open_issues": 66,
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 2010,
+                "stars": 2011,
                 "topics": [
                   "c-plus-plus",
                   "gtk",
@@ -916,11 +916,11 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:08:26Z",
+                "last_commit": "2026-10-26T13:13:22Z",
                 "open_issues": 38,
                 "owner": "OCR4all",
                 "repo": "LAREX",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1108,7 +1108,7 @@
                 "open_issues": 19,
                 "owner": "ZBar",
                 "repo": "ZBar",
-                "stars": 2542,
+                "stars": 2541,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1245,7 +1245,7 @@
                 "open_issues": 26,
                 "owner": "OCR4all",
                 "repo": "OCR4all",
-                "stars": 711,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1702,7 +1702,7 @@
                     "open_issues": 26,
                     "owner": "nguyenq",
                     "repo": "tess4j",
-                    "stars": 1757,
+                    "stars": 1756,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1841,7 +1841,7 @@
                     "open_issues": 45,
                     "owner": "sirfz",
                     "repo": "tesserocr",
-                    "stars": 2179,
+                    "stars": 2180,
                     "topics": [
                       "cython",
                       "ocr",
@@ -1929,7 +1929,7 @@
                     "open_issues": 59,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38794,
+                    "stars": 38800,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -1956,7 +1956,7 @@
                     "open_issues": 28,
                     "owner": "antimatter15",
                     "repo": "ocrad.js",
-                    "stars": 3515,
+                    "stars": 3516,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2225,7 +2225,7 @@
                     "open_issues": 86,
                     "owner": "NMAC427",
                     "repo": "SwiftOCR",
-                    "stars": 4626,
+                    "stars": 4627,
                     "topics": [
                       "deprecated",
                       "ios",
@@ -2793,6 +2793,27 @@
             },
             {
               "node_type": "item",
+              "title": "eMOP-TCP",
+              "description": "2,188 ECCO-TCP documents, cleaned up by eMOP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Document level full-text of TCP transcribed ECCO docs (2188)",
+                "homepage": null,
+                "id": 49661572,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2016-01-19T16:52:21Z",
+                "open_issues": 0,
+                "owner": "Early-Modern-OCR",
+                "repo": "TCP-ECCO-texts",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:06:13.728Z"
+            },
+            {
+              "node_type": "item",
               "title": "imagessan",
               "description": "Sanskrit images & ground truth (Devanagari script)",
               "children": [],
@@ -2808,27 +2829,6 @@
                 "owner": "Shreeshrii",
                 "repo": "imagessan",
                 "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:06:13.728Z"
-            },
-            {
-              "node_type": "item",
-              "title": "eMOP-TCP",
-              "description": "2,188 ECCO-TCP documents, cleaned up by eMOP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Document level full-text of TCP transcribed ECCO docs (2188)",
-                "homepage": null,
-                "id": 49661572,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2016-01-19T16:52:21Z",
-                "open_issues": 0,
-                "owner": "Early-Modern-OCR",
-                "repo": "TCP-ECCO-texts",
-                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2925,7 +2925,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3461,
+                "stars": 3462,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2953,7 +2953,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3461,
+                "stars": 3462,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -2974,7 +2974,7 @@
                 "open_issues": 83,
                 "owner": "ocropus-archive",
                 "repo": "DUP-ocropy",
-                "stars": 3461,
+                "stars": 3462,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3021,7 +3021,7 @@
                     "open_issues": 21,
                     "owner": "mzucker",
                     "repo": "noteshrink",
-                    "stars": 4843,
+                    "stars": 4842,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3259,7 +3259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:52:00.784Z",
+    "last_updated": "2026-10-26T21:46:00.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
@@ -3271,7 +3271,7 @@
       "open_issues": 77,
       "owner": "kba",
       "repo": "awesome-ocr",
-      "stars": 3124,
+      "stars": 3125,
       "topics": []
     },
     "original_repository_sha": "f47e4e18f38d7ace32708c26f61be44f0ac0ba39",
