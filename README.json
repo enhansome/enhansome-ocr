@@ -17,11 +17,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T21:16:05Z",
-                "open_issues": 487,
+                "last_commit": "2026-11-20T05:34:01Z",
+                "open_issues": 491,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77591,
+                "stars": 77603,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 535,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30156,
+                "stars": 30159,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -171,7 +171,7 @@
                 "open_issues": 66,
                 "owner": "Calamari-OCR",
                 "repo": "calamari",
-                "stars": 1203,
+                "stars": 1204,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
@@ -188,11 +188,11 @@
                 "id": 35872353,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T13:02:22Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-20T15:56:32Z",
+                "open_issues": 25,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -415,7 +415,7 @@
                     "open_issues": 36,
                     "owner": "UB-Mannheim",
                     "repo": "ocr-fileformat",
-                    "stars": 204,
+                    "stars": 203,
                     "topics": [
                       "alto",
                       "finereader",
@@ -705,7 +705,7 @@
                 "open_issues": 70,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35352,
+                "stars": 35363,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -793,11 +793,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T21:16:05Z",
-                "open_issues": 487,
+                "last_commit": "2026-11-20T05:34:01Z",
+                "open_issues": 491,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77591,
+                "stars": 77603,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -826,7 +826,7 @@
                 "open_issues": 177,
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7909,
+                "stars": 7910,
                 "topics": [
                   "archiving",
                   "documents",
@@ -911,17 +911,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.",
-                "homepage": null,
+                "description": "Collaborative platform for layout annotation, transcription correction and ground-truth creation, with Actions for automatic processing, training and evaluation.",
+                "homepage": "https://docs.larex.kallimachos.de/",
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:41:38Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-20T20:38:09Z",
+                "open_issues": 3,
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 202,
-                "topics": []
+                "topics": [
+                  "annotation",
+                  "ground-truth",
+                  "htr",
+                  "layout-analysis",
+                  "ocr",
+                  "page-xml",
+                  "transcription"
+                ]
               },
               "first_seen": "2026-08-29T01:06:13.728Z"
             },
@@ -1929,7 +1937,7 @@
                     "open_issues": 65,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38842,
+                    "stars": 38846,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -1956,7 +1964,7 @@
                     "open_issues": 28,
                     "owner": "antimatter15",
                     "repo": "ocrad.js",
-                    "stars": 3513,
+                    "stars": 3512,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3259,7 +3267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:42:16.325Z",
+    "last_updated": "2026-11-20T23:16:04.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
