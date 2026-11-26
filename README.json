@@ -17,11 +17,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T10:07:56Z",
-                "open_issues": 493,
+                "last_commit": "2026-11-25T22:14:53Z",
+                "open_issues": 492,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77630,
+                "stars": 77663,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -50,7 +50,7 @@
                 "open_issues": 539,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30163,
+                "stars": 30173,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -83,11 +83,11 @@
                 "id": 327949189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T09:55:53Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-24T14:47:13Z",
+                "open_issues": 17,
                 "owner": "mindee",
                 "repo": "doctr",
-                "stars": 6441,
+                "stars": 6443,
                 "topics": [
                   "deep-learning",
                   "document-parsing",
@@ -192,7 +192,7 @@
                 "open_issues": 25,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1112,
+                "stars": 1114,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -701,11 +701,11 @@
                 "id": 15333471,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-16T01:20:02Z",
-                "open_issues": 70,
+                "last_commit": "2026-11-25T08:05:57Z",
+                "open_issues": 67,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35382,
+                "stars": 35403,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -793,11 +793,11 @@
                 "id": 22887094,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T10:07:56Z",
-                "open_issues": 493,
+                "last_commit": "2026-11-25T22:14:53Z",
+                "open_issues": 492,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77630,
+                "stars": 77663,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -853,7 +853,7 @@
                 "open_issues": 140,
                 "owner": "openpaperwork",
                 "repo": "paperwork",
-                "stars": 2431,
+                "stars": 2433,
                 "topics": [
                   "dms",
                   "document-management",
@@ -916,8 +916,8 @@
                 "id": 77929618,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-23T21:05:09Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-25T21:30:58Z",
+                "open_issues": 20,
                 "owner": "OCR4all",
                 "repo": "LAREX",
                 "stars": 202,
@@ -1158,7 +1158,7 @@
                 "open_issues": 3,
                 "owner": "chungkwong",
                 "repo": "MathOCR",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "latex",
                   "optical-character-recognition",
@@ -1655,7 +1655,7 @@
                     "open_issues": 32,
                     "owner": "otiai10",
                     "repo": "gosseract",
-                    "stars": 3149,
+                    "stars": 3150,
                     "topics": [
                       "go",
                       "ocr",
@@ -1828,7 +1828,7 @@
                     "open_issues": 21,
                     "owner": "madmaze",
                     "repo": "pytesseract",
-                    "stars": 6395,
+                    "stars": 6396,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1849,7 +1849,7 @@
                     "open_issues": 44,
                     "owner": "sirfz",
                     "repo": "tesserocr",
-                    "stars": 2181,
+                    "stars": 2182,
                     "topics": [
                       "cython",
                       "ocr",
@@ -1934,10 +1934,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-17T04:19:12Z",
-                    "open_issues": 65,
+                    "open_issues": 66,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38851,
+                    "stars": 38856,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -2198,7 +2198,7 @@
                     "open_issues": 17,
                     "owner": "ropensci",
                     "repo": "tesseract",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": [
                       "ocr",
                       "r",
@@ -3029,7 +3029,7 @@
                     "open_issues": 21,
                     "owner": "mzucker",
                     "repo": "noteshrink",
-                    "stars": 4840,
+                    "stars": 4838,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -3101,7 +3101,7 @@
                 "open_issues": 3,
                 "owner": "chungkwong",
                 "repo": "MathOCR",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "latex",
                   "optical-character-recognition",
@@ -3267,7 +3267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:25:28.456Z",
+    "last_updated": "2026-11-26T01:05:18.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
@@ -3276,7 +3276,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-06T21:02:05Z",
-      "open_issues": 81,
+      "open_issues": 82,
       "owner": "kba",
       "repo": "awesome-ocr",
       "stars": 3128,
