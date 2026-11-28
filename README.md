@@ -1,6 +1,6 @@
 # Awesome OCR with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,445 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,953 | 🐛 103 | 📅 2026-09-02
 
 This list contains links to great software tools and libraries and literature
 related to [Optical Character Recognition
@@ -60,13 +60,13 @@ Contributions are welcome, as is feedback.
 
 ### OCR engines
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,676 | 🐛 484 | 🌐 C++ | 📅 2026-11-26 - The definitive Open Source OCR engine `Apache 2.0`
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,177 | 🐛 539 | 🌐 Python | 📅 2026-11-13 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
-* [doctr](https://github.com/mindee/doctr) ⭐ 6,443 | 🐛 18 | 🌐 Python | 📅 2026-11-24 - A seamless & high-performing OCR library powered by Deep Learning
+* [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 77,695 | 🐛 486 | 🌐 C++ | 📅 2026-11-26 - The definitive Open Source OCR engine `Apache 2.0`
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,176 | 🐛 540 | 🌐 Python | 📅 2026-11-13 - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
+* [doctr](https://github.com/mindee/doctr) ⭐ 6,443 | 🐛 16 | 🌐 Python | 📅 2026-11-27 - A seamless & high-performing OCR library powered by Deep Learning
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) ⭐ 4,629 | 🐛 86 | 🌐 Swift | 📅 2020-12-13 - fast and simple OCR library written in Swift
 * [ocropus](https://github.com/tmbdev/ocropy) ⚠️ Archived - OCR engine based on LSTM, `Apache 2.0`
 * [Calamari](https://github.com/Calamari-OCR/calamari) ⭐ 1,204 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - OCR Engine based on OCRopy and Kraken
-* [kraken](https://github.com/mittagessen/kraken) ⭐ 1,114 | 🐛 25 | 🌐 Python | 📅 2026-11-21 - Ocropus fork with sane defaults
+* [kraken](https://github.com/mittagessen/kraken) ⭐ 1,115 | 🐛 25 | 🌐 Python | 📅 2026-11-27 - Ocropus fork with sane defaults
 * [attention-ocr](https://github.com/emedvedev/attention-ocr) ⭐ 1,085 | 🐛 27 | 🌐 Python | 📅 2023-10-20 - OCR engine using visual attention mechanisms
 * [simple-ocr-opencv](https://github.com/goncalopp/simple-ocr-opencv) ⭐ 528 | 🐛 1 | 🌐 Python | 📅 2024-02-01 and its [fork](https://github.com/RedFantom/simple-ocr-opencv) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-03-09 - A simple pythonic OCR engine using opencv and numpy
 * [ocular](https://github.com/tberg12/ocular) ⭐ 268 | 🐛 10 | 🌐 Java | 📅 2024-06-07 - Machine-learning OCR for historic documents
@@ -93,7 +93,7 @@ Contributions are welcome, as is feedback.
 
 #### hOCR
 
-* [hocr-tools](https://github.com/tmbdev/hocr-tools) ⭐ 416 | 🐛 42 | 🌐 Python | 📅 2024-08-10 - Tools for doing various useful things with hOCR files, `Apache 2.0`
+* [hocr-tools](https://github.com/tmbdev/hocr-tools) ⭐ 417 | 🐛 42 | 🌐 Python | 📅 2024-08-10 - Tools for doing various useful things with hOCR files, `Apache 2.0`
 * [ocr-transform](https://github.com/UB-Mannheim/ocr-transform) ⭐ 204 | 🐛 36 | 🌐 JavaScript | 📅 2025-05-21 - CLI tool to convert between hOCR and ALTO, `MIT`
 * [hocr-spec](https://github.com/kba/hocr-spec) ⭐ 76 | 🐛 55 | 🌐 HTML | 📅 2024-08-12 - hOCR 1.2 specification
 * [hocr-parser](https://github.com/athento/hocr-parser) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2015-09-23 - hOCR Specification Python Parser
@@ -120,17 +120,17 @@ Contributions are welcome, as is feedback.
 
 ### OCR CLI
 
-* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 35,414 | 🐛 68 | 🌐 Python | 📅 2026-11-25 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 35,419 | 🐛 69 | 🌐 Python | 📅 2026-11-27 - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) ⭐ 308 | 🐛 2 | 🌐 Python | 📅 2026-05-24 - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
-* [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2025-03-31 - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
+* [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2025-03-31 - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
 
 ### OCR GUI
 
-* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 77,676 | 🐛 484 | 🌐 C++ | 📅 2026-11-26 editor
+* [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) ⭐ 77,695 | 🐛 486 | 🌐 C++ | 📅 2026-11-26 editor
 * [Paperless](https://github.com/danielquinn/paperless) ⚠️ Archived - Scan, index, and archive all of your paper documents.
 * [Paperwork](https://github.com/openpaperwork/paperwork) ⚠️ Archived - Using scanners and OCR to grep paper documents the easy way.
-* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,026 | 🐛 66 | 🌐 C++ | 📅 2026-11-15 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
+* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,026 | 🐛 66 | 🌐 C++ | 📅 2026-11-27 - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
 * [LAREX](https://github.com/chreul/larex) ⭐ 202 | 🐛 21 | 🌐 Java | 📅 2026-11-25 - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books.
 * [qt-box-editor](https://github.com/zdenop/qt-box-editor) ⭐ 176 | 🐛 3 | 🌐 C++ | 📅 2024-10-14 - QT4 editor of tesseract-ocr box files.
 * [ocr-gt-tools](https://github.com/UB-Mannheim/ocr-gt-tools) ⭐ 54 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-02 - Client-Server application for editing OCR ground truth.
@@ -161,7 +161,7 @@ Contributions are welcome, as is feedback.
 * [gamera](https://github.com/hsnr-gamera/gamera) ⭐ 39 | 🐛 5 | 🌐 C++ | 📅 2022-08-15 - A meta-framework for building document processing applications, e.g. OCR
 * [docker-ocropy](https://github.com/kba/docker-ocropy) ⭐ 9 | 🐛 1 | 🌐 Shell | 📅 2017-12-16 - A Docker container for running the [ocropy OCR system](htps://github.com/tmbdev/ocropy) ⚠️ Archived.
 * [ocr-tools](https://github.com/subugoe/ocr-tools) ⚠️ Archived - Project to provide CLI and web service interfaces to common OCR engines
-* [kraken-docker](https://github.com/kba/kraken-docker) ⭐ 6 | 🐛 3 | 🌐 Makefile | 📅 2017-12-16 - Run the [kraken](https://github.com/mittagessen/kraken) ⭐ 1,114 | 🐛 25 | 🌐 Python | 📅 2026-11-21 OCR engine in a docker container
+* [kraken-docker](https://github.com/kba/kraken-docker) ⭐ 6 | 🐛 3 | 🌐 Makefile | 📅 2017-12-16 - Run the [kraken](https://github.com/mittagessen/kraken) ⭐ 1,115 | 🐛 25 | 🌐 Python | 📅 2026-11-27 OCR engine in a docker container
 * [ocrad-docker](https://github.com/kba/ocrad-docker) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2016-08-15 - Run the [ocrad](http://www.gnu.org/software/ocrad/) OCR engine in a docker container
 * [ABBYY Cloud OCR SDK Code samples](https://github.com/abbyysdk/ocrsdk.com) - Code samples for using the proprietary commercial ABBYY OCR API.
 * [Konfuzio](https://www.konfuzio.com) - Free Online OCR up to 2.000 pages per month and OCR API by \[@atraining], see <https://youtu.be/NZKUrKyFVA8> (code is not open)
@@ -197,7 +197,7 @@ Contributions are welcome, as is feedback.
 
 #### .Net
 
-* [tesseract for .net](https://github.com/charlesw/tesseract) ⭐ 2,461 | 🐛 232 | 🌐 C# | 📅 2025-04-29 - A .Net wrapper for tesseract-ocr.
+* [tesseract for .net](https://github.com/charlesw/tesseract) ⭐ 2,460 | 🐛 232 | 🌐 C# | 📅 2025-04-29 - A .Net wrapper for tesseract-ocr.
 
 #### Object Pascal
 
@@ -205,7 +205,7 @@ Contributions are welcome, as is feedback.
 
 #### PHP
 
-* [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php) ⭐ 3,042 | 🐛 6 | 🌐 PHP | 📅 2026-01-27 - Tesseract PHP bindings.
+* [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php) ⭐ 3,043 | 🐛 6 | 🌐 PHP | 📅 2026-01-27 - Tesseract PHP bindings.
 
 #### Python
 
@@ -216,7 +216,7 @@ Contributions are welcome, as is feedback.
 
 #### Javascript
 
-* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,855 | 🐛 66 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
+* [tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,859 | 🐛 66 | 🌐 JavaScript | 📅 2026-05-17 - Javascript port (emscripten) of Tesseract
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,511 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02 - Javascript port (emscripten) of ocrad
 * [node-tesseract-ocr](https://github.com/zapolnoch/node-tesseract-ocr) ⭐ 320 | 🐛 24 | 🌐 JavaScript | 📅 2023-07-13 - A simple wrapper for the Tesseract OCR package.
 * [gocr.js](https://github.com/antimatter15/gocr.js) ⭐ 100 | 🐛 3 | 🌐 C | 📅 2013-12-31 - Javascript port (emscripten) of gocr
@@ -395,4 +395,4 @@ Contributions are welcome, as is feedback.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

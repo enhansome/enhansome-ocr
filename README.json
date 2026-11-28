@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T17:22:14Z",
-                "open_issues": 484,
+                "open_issues": 486,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77676,
+                "stars": 77695,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -47,10 +47,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T00:06:56Z",
-                "open_issues": 539,
+                "open_issues": 540,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30177,
+                "stars": 30176,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -83,8 +83,8 @@
                 "id": 327949189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T14:47:13Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-27T07:38:41Z",
+                "open_issues": 16,
                 "owner": "mindee",
                 "repo": "doctr",
                 "stars": 6443,
@@ -188,11 +188,11 @@
                 "id": 35872353,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T15:09:54Z",
+                "last_commit": "2026-11-27T12:33:12Z",
                 "open_issues": 25,
                 "owner": "mittagessen",
                 "repo": "kraken",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": [
                   "alto-xml",
                   "handwritten-text-recognition",
@@ -394,7 +394,7 @@
                     "open_issues": 42,
                     "owner": "ocropus",
                     "repo": "hocr-tools",
-                    "stars": 416,
+                    "stars": 417,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -701,11 +701,11 @@
                 "id": 15333471,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-25T08:05:57Z",
-                "open_issues": 68,
+                "last_commit": "2026-11-27T07:40:34Z",
+                "open_issues": 69,
                 "owner": "ocrmypdf",
                 "repo": "OCRmyPDF",
-                "stars": 35414,
+                "stars": 35419,
                 "topics": [
                   "image-processing",
                   "ocr",
@@ -760,7 +760,7 @@
                 "open_issues": 0,
                 "owner": "mauvilsa",
                 "repo": "tesseract-recognize",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "cli",
                   "docker-image",
@@ -794,10 +794,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T17:22:14Z",
-                "open_issues": 484,
+                "open_issues": 486,
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 77676,
+                "stars": 77695,
                 "topics": [
                   "hacktoberfest",
                   "lstm",
@@ -826,7 +826,7 @@
                 "open_issues": 177,
                 "owner": "the-paperless-project",
                 "repo": "paperless",
-                "stars": 7911,
+                "stars": 7912,
                 "topics": [
                   "archiving",
                   "documents",
@@ -885,7 +885,7 @@
                 "id": 16681717,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T20:02:16Z",
+                "last_commit": "2026-11-27T21:02:18Z",
                 "open_issues": 66,
                 "owner": "manisandro",
                 "repo": "gImageReader",
@@ -1689,7 +1689,7 @@
                     "open_issues": 0,
                     "owner": "rmtheis",
                     "repo": "tess-two",
-                    "stars": 3755,
+                    "stars": 3754,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1738,7 +1738,7 @@
                     "open_issues": 232,
                     "owner": "charlesw",
                     "repo": "tesseract",
-                    "stars": 2461,
+                    "stars": 2460,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:13.728Z"
@@ -1794,7 +1794,7 @@
                     "open_issues": 6,
                     "owner": "thiagoalessio",
                     "repo": "tesseract-ocr-for-php",
-                    "stars": 3042,
+                    "stars": 3043,
                     "topics": [
                       "image-to-text",
                       "ocr",
@@ -1937,7 +1937,7 @@
                     "open_issues": 66,
                     "owner": "naptha",
                     "repo": "tesseract.js",
-                    "stars": 38855,
+                    "stars": 38859,
                     "topics": [
                       "deep-learning",
                       "javascript",
@@ -3267,7 +3267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:05:54.325Z",
+    "last_updated": "2026-11-28T00:38:11.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Links to awesome OCR projects",
@@ -3276,7 +3276,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-06T21:02:05Z",
-      "open_issues": 82,
+      "open_issues": 81,
       "owner": "kba",
       "repo": "awesome-ocr",
       "stars": 3128,
